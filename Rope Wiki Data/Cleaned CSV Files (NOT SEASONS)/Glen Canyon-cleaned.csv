@@ -1,0 +1,86 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+279,Poe Canyon,"37° 33' 22.68"" N, 110° 53' 9.60"" W",Halls Creek area,4.8,4B V X (<i>v6a2 V</i>),4B V X,10.0,20.0,4.3,16,135 ft,135,Spring; Fall.,True,False,True,False,,0 minutes,0.0,Passenger,False
+52211,Jiminy Cricket,"37° 33' 31.68"" N, 110° 53' 17.16"" W",Halls Creek area,5.0,4B V X (<i>v6a2 V</i>),4B V X,,,,,,,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+322,Hard Day Harvey Canyon,"37° 39' 47.52"" N, 110° 33' 22.68"" W",Ticaboo Mesa,4.4,3B III R (<i>v5a2 III</i>),3B III R,4.0,8.5,5.7,4,50 ft,50,Spring through Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+323,Montezuma Canyon,"37° 39' 8.64"" N, 110° 33' 27.36"" W",Ticaboo Mesa,4.4,4B III (<i>v4a2 III</i>),4B III,5.0,8.0,3.2,4,260 ft,260,,,,,,,,,High Clearance,True
+313,Paradiso Canyon,"37° 41' 20.04"" N, 110° 31' 18.12"" W",Ticaboo Mesa,4.3,3B II PG (<i>v4a2 II</i>),3B II PG,3.0,7.0,3.9,4,80 ft,80,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+278,Happy Dog Canyon,"37° 34' 34.32"" N, 110° 53' 29.40"" W",Halls Creek area,4.3,4B V R (<i>v5a2 V</i>),4B V R,7.0,11.0,3.0,6,140 ft,140,,,,,,,0 minutes,0.0,Passenger,False
+325,Psychological Damage Canyon,"37° 36' 5.04"" N, 110° 37' 35.40"" W",Ticaboo Mesa,4.3,3B III X (<i>v6a2 III</i>),3B III X,4.0,8.0,4.0,0,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+321,Good Day Jim Canyon,"37° 39' 55.44"" N, 110° 33' 34.56"" W",Ticaboo Mesa,4.0,3B III R (<i>v5a2 III</i>),3B III R,5.0,8.0,5.6,5,66 ft,66,Spring through Fall.,True,True,True,False,,,,High Clearance,True
+311,Inferno Canyon,"37° 41' 7.44"" N, 110° 31' 53.40"" W",Ticaboo Mesa,4.0,3A II R (<i>v5a1 II</i>),3A II R,4.0,6.0,2.5,5,83 ft,83,Any; hot in summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+318,Euphrates Canyon,"37° 39' 9.72"" N, 110° 32' 36.96"" W",Ticaboo Mesa,4.0,4B III (<i>v4a2 III</i>),4B III,4.0,6.0,2.6,2,200 ft,200,,,,,,,,,High Clearance,True
+948,Tinnitus,"37° 36' 57.96"" N, 110° 36' 11.88"" W",Ticaboo Mesa,4.0,4B II R (<i>v5a2 II</i>),4B II R,,,,3,80 ft,80,"Fall, Winter, Spring",True,False,True,True,,,,4WD - High Clearance,True
+312,Limbo Canyon,"37° 41' 4.92"" N, 110° 31' 42.60"" W",Ticaboo Mesa,3.7,4A III R (<i>v5a1 III</i>),4A III R,6.0,7.0,2.6,5,120 ft,120,,,,,,,0 minutes,0.0,High Clearance,True
+320,Glaucoma Canyon,"37° 37' 7.68"" N, 110° 36' 14.76"" W",Ticaboo Mesa,4.0,4A III X (<i>v6a1 III</i>),4A III X,4.0,7.0,2.9,0,180 ft,180,,,,,,,0 minutes,0.0,High Clearance,True
+314,Purgatory Canyon (Dave's Not Dead),"37° 41' 12.84"" N, 110° 32' 1.32"" W",Ticaboo Mesa,3.4,3A II (<i>v3a1 II</i>),3A II,3.0,8.0,2.7,7,105 ft,105,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+327,Sinusitis Canyon,"37° 37' 7.68"" N, 110° 36' 33.48"" W",Ticaboo Mesa,3.8,4B II R (<i>v5a2 II</i>),4B II R,4.0,6.0,5.1,1,30 ft,30,,,,,,,0 minutes,0.0,4WD - High Clearance,True
+914,Baboon Laughs,"37° 34' 12.00"" N, 110° 53' 1.32"" W",Halls Creek area,3.5,3B V (<i>v3a2 V</i>),3B V,4.0,48.0,,6,165 ft,165,Spring;Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+316,Double Entendre,"37° 42' 2.16"" N, 110° 33' 1.80"" W",Ticaboo Mesa,3.7,4B III PG (<i>v4a2 III</i>),4B III PG,1.0,6.0,3.2,,150 ft,150,,,,,,,,,High Clearance,True
+546,Ticaboo Canyon (Upper),"37° 42' 5.40"" N, 110° 34' 48.72"" W",Ticaboo Mesa,3.5,3B III (<i>v3a2 III</i>),3B III,6.0,8.0,5.0,7,195 ft,195,Spring through Fall;HOT in Summer,True,True,True,False,hot in summer,,,,False
+545,Blue Pool Wash,"37° 2' 14.64"" N, 111° 37' 0.12"" W",Big Water,3.2,3A I (<i>v3a1 I</i>),3A I,,,1.25,3,40 ft,40,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+315,Double Deuce Canyon,"37° 38' 34.44"" N, 110° 35' 53.16"" W",Ticaboo Mesa,3.5,4B III (<i>v4a2 III</i>),4B III,,,3.3,7,125 ft,125,,,,,,,0 minutes,0.0,High Clearance,True
+310,Devils Thumb,"37° 40' 45.12"" N, 110° 32' 20.76"" W",Ticaboo Mesa,3.5,4B III (<i>v4a2 III</i>),4B III,5.0,8.0,3.0,4,55 ft,55,,,,,,,0 minutes,0.0,High Clearance,True
+10320,East of Stateline Canyon,"37° 0' 0.36"" N, 111° 31' 18.48"" W",Big Water,3.4,2A I (<i>v1a1 I</i>),2A I,2.0,4.0,3.0,0,0 ft,0,,,,,,,0 minutes,0.0,Passenger,False
+937,Mumbai Canyon,"37° 19' 53.40"" N, 110° 57' 32.76"" W",Glen Canyon NRA,4.5,4A IV X (<i>v6a1 IV</i>),4A IV X,11.0,14.0,13.1,2,90 ft,90,,,,,,,,,,False
+10263,Stud Horse Point Canyon,"37° 0' 13.32"" N, 111° 36' 7.20"" W",Big Water,3.0,2A I (<i>v1a1 I</i>),2A I,1.0,3.0,1.1,0,0 ft,0,,,,,,,0 minutes,0.0,Passenger,False
+11038,Defiance House,"37° 32' 48.12"" N, 110° 35' 9.60"" W",Bullfrog,5.0,POI,POI,1.0,,,,,,Any,True,True,True,True,,,,,False
+980,State Line Canyon,"36° 59' 19.68"" N, 111° 32' 52.08"" W",Big Water,2.6,3A I (<i>v3a1 I</i>),3A I,2.0,4.0,,3,35 ft,35,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,,False
+19518,Pothoez Canyon,"37° 36' 25.56"" N, 110° 37' 35.40"" W",Ticaboo Mesa,3.0,4A III PG (<i>v4a1 III</i>),4A III PG,5.0,7.0,4.5,4,70 ft,70,,,,,,,,,,False
+324,Off the Hook Canyon,"37° 41' 53.16"" N, 110° 32' 37.68"" W",Ticaboo Mesa,3.5,4A II (<i>v4a1 II</i>),4A II,4.5,6.5,3.0,5,150 ft,150,,,,,,,,,High Clearance,True
+931,Lost Eden,"37° 26' 41.28"" N, 110° 46' 13.44"" W",Bullfrog,4.0,,,,,,,,,,,,,,,,,,False
+19766,Smith Fork Canyon,"37° 36' 10.80"" N, 110° 38' 40.56"" W",Ticaboo Mesa,4.0,2A <i>III</i> (<i>v1a1 III</i>),2A <i>III</i>,4.0,6.0,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+319,Fiddlestix Canyon,"37° 39' 56.88"" N, 110° 32' 30.48"" W",Ticaboo Mesa,2.3,3A III (<i>v3a1 III</i>),3A III,2.5,4.0,1.8,3,185 ft,185,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,High Clearance,True
+328,Warm Springs Creek,"37° 37' 39.72"" N, 110° 37' 3.72"" W",Ticaboo Mesa,2.0,3A III R (<i>v5a1 III</i>),3A III R,2.0,3.0,4.2,0,12 ft,12,,,,,,,,,High Clearance,True
+942,Seven Mile Canyon (Big East Fork),"37° 39' 43.92"" N, 110° 34' 15.96"" W",Ticaboo Mesa,3.0,3A II (<i>v3a1 II</i>),3A II,4.0,6.0,5.2,4,70 ft,70,,,,,,,0 minutes,0.0,4WD - High Clearance,True
+329,Wormhole Canyon,"37° 36' 34.92"" N, 110° 38' 25.08"" W",Ticaboo Mesa,3.5,3A II R (<i>v5a1 II</i>),3A II R,2.0,4.0,3.8,0,,,,,,,,,0 minutes,0.0,High Clearance,True
+326,Pottymouth Canyon,"37° 37' 36.48"" N, 110° 36' 16.92"" W",Ticaboo Mesa,4.0,2A I (<i>v1a1 I</i>),2A I,0.5,3.5,0.9,0,0 ft,0,,,,,,,,,High Clearance,True
+927,Forbidding Canyon,"37° 3' 58.68"" N, 110° 58' 54.12"" W",Navajo Nation,5.0,3B VI (<i>v3a2 VI</i>),3B VI,,,,,40 ft,40,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+11024,Trough Canyon,"37° 42' 11.52"" N, 110° 34' 51.24"" W",Ticaboo Mesa,2.6,3A I (<i>v3a1 I</i>),3A I,1.5,2.5,1.2,3,210 ft,210,,,,,,,,,,False
+11023,Tripoli Canyon,"37° 39' 32.76"" N, 110° 32' 56.40"" W",Ticaboo Mesa,2.3,4A III (<i>v4a1 III</i>),4A III,4.0,6.0,2.5,2,70 ft,70,,,,,,,,,,False
+46575,Lone Rock Canyon (East Fork),"37° 2' 43.80"" N, 111° 31' 41.52"" W",Big Water,3.0,3A III (<i>v2a1 III</i>),3A III,4.0,6.0,7.8,2,15 ft,15,Spring;Fall,True,False,True,False,,0 minutes,0.0,4WD,True
+19752,Offshore Canyon,"37° 37' 46.56"" N, 110° 42' 39.96"" W",Ticaboo Mesa,3.0,3B <i>V</i> (<i>v3a2 V</i>),3B <i>V</i>,4.0,48.0,,6,165 ft,165,Spring; Fall,True,False,True,False,,,,,False
+40971,Teeny Tiny Loop,"37° 39' 23.76"" N, 110° 32' 0.96"" W",Ticaboo Mesa,3.0,4B III (<i>v4a2 III</i>),4B III,6.0,8.0,4.7,6,90 ft,90,Spring; Fall,True,False,True,False,,0 minutes,0.0,,False
+911,Annie's (North Fork),"37° 23' 16.08"" N, 110° 46' 4.80"" W",Bullfrog,4.0,,,,,,,,,,,,,,,,,,False
+912,Annie's (South Fork),"37° 21' 44.28"" N, 110° 46' 3.72"" W",Bullfrog,4.0,,,,,,,,,,,,,,,,,,False
+920,Clear Creek (Glen Canyon NRA),"37° 16' 46.92"" N, 110° 55' 31.08"" W",Glen Canyon NRA,4.0,,,,,,,,,,,,,,,,,,False
+85334,DD Drunk Driving,"37° 7' 27.84"" N, 111° 41' 1.32"" W",The Catacombs,4.0,,,,,,2,50 ft,50,Spring or Fall,True,False,True,False,,0 minutes,0.0,,False
+46615,Break Hollow,"37° 2' 37.68"" N, 111° 34' 30.00"" W",Big Water,2.0,2A II R (<i>v1a1 II</i>),2A II R,3.0,6.0,7.8,0,0 ft,0,"spring, fall",True,False,True,False,,0 minutes,0.0,Passenger,False
+917,Caliente,"37° 37' 18.12"" N, 110° 36' 42.48"" W",Ticaboo Mesa,3.0,3A II PG (<i>v4a1 II</i>),3A II PG,,,,,,,,,,,,,0 minutes,0.0,,False
+32770,Dos Bolsas Cajones,"37° 39' 5.76"" N, 110° 33' 36.72"" W",Ticaboo Mesa,3.0,,,,,,,,,,,,,,,,,,False
+58968,Grease Monkey,"37° 35' 4.56"" N, 110° 38' 23.28"" W",Ticaboo Mesa,3.0,3B II (<i>v3a2 II</i>),3B II,,,2.0,2,30 ft,30,,,,,,,0 minutes,0.0,High Clearance,True
+58965,Heckle and Jeckle,"37° 34' 4.08"" N, 110° 38' 24.36"" W",Ticaboo Mesa,3.0,4B III (<i>v4a2 III</i>),4B III,,,2.2,,50 ft,50,,,,,,,0 minutes,0.0,High Clearance,True
+941,Seven Mile Canyon,"37° 39' 59.04"" N, 110° 35' 6.00"" W",Ticaboo Mesa,3.0,3A II (<i>v3a1 II</i>),3A II,4.0,6.0,5.2,4,70 ft,70,,,,,,,,,,False
+921,Crystal Springs (Canyon 1),"37° 31' 42.96"" N, 110° 37' 10.92"" W",Bullfrog,2.0,,,,,,,,,,,,,,,,,,False
+317,Downward Spiral Canyon,"37° 35' 47.76"" N, 110° 37' 35.04"" W",Ticaboo Mesa,2.0,3A III (<i>v2a1 III</i>),3A III,4.0,6.5,4.9,1,20 ft,20,,,,,,,0 minutes,0.0,High Clearance,True
+32210,Sile Brink Hollow Canyon,"37° 6' 47.88"" N, 111° 26' 24.72"" W",Big Water,2.0,3B I (<i>v3a2 I</i>),3B I,,,,2,,,,,,,,,,,,False
+85337,Mail Order Bride,"37° 7' 32.88"" N, 111° 41' 4.20"" W",The Catacombs,1.0,,,,,,1,40 ft,40,Fall and Spring,True,False,True,False,,0 minutes,0.0,,False
+910,Anasazi Canyon,"37° 7' 18.48"" N, 110° 54' 33.12"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+19741,Balanced Rock Canyon,"37° 8' 20.04"" N, 111° 2' 38.76"" W",Glen Canyon NRA,0.0,,,,,,,,,,,,,,,,,,False
+915,Bald Rock Canyon,"37° 7' 50.88"" N, 110° 51' 10.80"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+19516,Bridge Canyon,"37° 4' 38.64"" N, 110° 57' 51.48"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+19749,Cascade Canyon (Glen Canyon NRA),"37° 8' 58.92"" N, 111° 0' 18.36"" W",Glen Canyon NRA,0.0,,,,,,,,,,,,,,,,,,False
+19750,Cathedral Canyon (Glen Canyon NRA),"37° 4' 13.08"" N, 111° 0' 23.04"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+918,Cha Canyon,"37° 5' 47.04"" N, 110° 49' 20.64"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+922,Crystal Springs (Canyon 2),"37° 31' 20.28"" N, 110° 36' 12.60"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+923,Driftwood Canyon,"37° 8' 45.24"" N, 111° 1' 28.20"" W",Glen Canyon NRA,0.0,,,,,,,,,,,,,,,,,,False
+924,East of Eden,"37° 26' 45.96"" N, 110° 45' 34.20"" W",Lake Powell,0.0,,,,,,,,,,,,,,,,,,False
+925,Endless Eden,"37° 27' 5.76"" N, 110° 45' 56.88"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+85446,Friends With Bennies Canyon,"37° 34' 49.44"" N, 110° 37' 54.48"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+930,Lehi Canyon,"37° 6' 59.76"" N, 110° 53' 47.40"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+932,Moepitz Canyon,"37° 7' 30.36"" N, 110° 55' 8.40"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+933,Moqui Canyon (Canyon 1),"37° 30' 15.12"" N, 110° 35' 30.84"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+934,Moqui Canyon (Canyon 2),"37° 29' 39.12"" N, 110° 34' 44.04"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+935,Moqui Canyon (Canyon 3),"37° 28' 37.92"" N, 110° 35' 49.92"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+19743,Mountain Sheep Canyon,"37° 1' 49.08"" N, 111° 2' 51.00"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+936,Nasja Canyon,"37° 7' 36.48"" N, 110° 52' 50.52"" W",Navajo Nation,0.0,,,,,,,,,,,,,,,,,,False
+938,Not Annie's,"37° 21' 40.32"" N, 110° 46' 9.12"" W",Bullfrog,0.0,,,,,,,,,,,,,,,,,,False
+85441,Second Guess Fork,"37° 39' 43.20"" N, 110° 34' 53.40"" W",Ticaboo Mesa,0.0,3A II (<i>v3a1 II</i>),3A II,,,,,,,,,,,,,0 minutes,0.0,,False
+85383,Selfish Fork,"37° 39' 43.56"" N, 110° 34' 32.88"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,0 minutes,0.0,,False
+943,Seven Mile Canyon (Little East Fork),"37° 39' 55.08"" N, 110° 34' 39.72"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+11022,Shuffleboard Canyon,"37° 37' 32.16"" N, 110° 39' 15.12"" W",Ticaboo Mesa,0.0,2A II (<i>v1a1 II</i>),2A II,4.0,5.0,4.2,,0 ft,0,,,,,,,,,,False
+39644,Sleepytime Trio,"37° 42' 1.80"" N, 110° 35' 12.12"" W",Ticaboo Mesa,0.0,4A III (<i>v4a1 III</i>),4A III,6.0,7.0,7.3,3,190 ft,190,,,,,,,,,,False
+85451,Slip N Slide Canyons,"37° 33' 21.96"" N, 110° 38' 40.92"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+944,Smith Fork (Minor Fork),"37° 37' 26.04"" N, 110° 38' 57.12"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+945,Smith Fork (North Fork),"37° 37' 24.60"" N, 110° 38' 36.60"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+19769,Smith Fork (South Fork),"37° 37' 18.12"" N, 110° 38' 14.28"" W",Ticaboo Mesa,0.0,,,,,,,,,,,,,,,,,,False
+19742,Twilight Canyon,"37° 10' 49.08"" N, 110° 58' 35.76"" W",Glen Canyon NRA,0.0,,,,,,,,,,,,,,,,,,False

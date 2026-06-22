@@ -1,0 +1,60 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+47175,Krill Canyon,"38° 44' 45.24"" N, 109° 33' 39.60"" W",Arches National Park,5.0,3A II (<i>v3a1 II</i>),3A II,3.0,5.0,,1,115 ft,115,"Fall, Summer, Spring",True,True,True,False,,0 minutes,0.0,Passenger,False
+952,Lomatium Canyon,"38° 44' 49.56"" N, 109° 33' 36.36"" W",Arches National Park,4.4,3A II (<i>v3a1 II</i>),3A II,4.0,7.0,,2,120 ft,120,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+510,Pleiades Canyon,"38° 28' 23.16"" N, 109° 17' 21.84"" W",Spanish Valley,4.1,3C II (<i>v3a4 II</i>),3C II,,,1.7,6,70 ft,70,July-October,False,False,False,False,,,,Passenger,False
+506,Lost and Found Canyon,"38° 47' 18.24"" N, 109° 29' 21.12"" W",Yellow Cat Mesa,4.1,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,3,132 ft,132,"Fall, Winter, Spring",True,False,True,True,,,,High Clearance,True
+950,Fiery Furnace,"38° 44' 35.52"" N, 109° 33' 56.88"" W",Arches National Park,4.0,2A II (<i>v1a1 II</i>),2A II,2.0,5.0,5.0,0,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+949,Elephant Butte,"38° 41' 44.16"" N, 109° 32' 23.64"" W",Arches National Park,3.8,3A III (<i>v3a1 III</i>),3A III,3.0,5.0,,2,82.021 ft,82,All year,False,False,False,False,,,,Passenger,False
+505,Granary Canyon,"38° 32' 39.48"" N, 109° 43' 11.64"" W",Potash Road,3.8,3A IV (<i>v3a1 IV</i>),3A IV,7.0,10.0,,7,200 ft,200,"Winter, Spring, Fall",True,False,True,True,,1 minutes,1.0,Passenger,False
+951,Lomatium & Krill Loop,"38° 44' 35.16"" N, 109° 33' 57.24"" W",Arches National Park,0.0,3A III (<i>v3a1 III</i>),3A III,5.0,7.0,,6,120 ft,120,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+512,Professor Creek,"38° 41' 1.68"" N, 109° 21' 19.80"" W",Castle Valley,3.7,3B III (<i>v3a2 III</i>),3B III,6.0,8.0,,2,60 ft,60,"Fall, Summer",False,True,True,False,,0 minutes,0.0,Passenger,False
+511,Pritchett Canyon,"38° 32' 5.64"" N, 109° 34' 15.96"" W",Kane Creek Road,3.6,3A III (<i>v3a1 III</i>),3A III,3.0,5.0,,3,135 ft,135,"Fall, Summer, Spring",True,True,True,False,,0 minutes,0.0,Passenger,False
+504,Dragonfly Canyon,"38° 39' 45.36"" N, 109° 34' 58.08"" W",Arches National Park,3.4,3B II (<i>v3a2 II</i>),3B II,3.0,5.0,,2,115 ft,115,"Fall, Summer, Spring",True,True,True,False,,,,Passenger,False
+507,Medieval Chamber,"38° 35' 33.36"" N, 109° 30' 29.52"" W",Sand Flats Road,3.5,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,,2,165 ft,165,All year,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+7609,SGR Slot,"38° 29' 35.16"" N, 109° 29' 31.56"" W",Spanish Valley,3.5,3A III R (<i>v5a1 III</i>),3A III R,6.0,10.0,6.5,6,95 ft,95,"Fall, Spring",True,False,True,False,,0 minutes,0.0,4WD,True
+7613,Moonflower Canyon,"38° 33' 14.76"" N, 109° 34' 45.84"" W",Kane Creek Road,3.3,3A II (v3a1 II),3A II,2.0,4.0,3.2,2,220 ft,220,"Fall, Summer, Spring",True,True,True,False,,0 minutes,0.0,Passenger,False
+11029,Corona Arch,"38° 34' 23.52"" N, 109° 37' 57.36"" W",Potash Road,3.5,POI,POI,2.0,3.0,,,,,Any,True,True,True,True,,0 minutes,0.0,,False
+503,Entrajo Canyon,"38° 28' 52.68"" N, 109° 24' 13.68"" W",Spanish Valley,3.0,3B II (<i>v3a2 II</i>),3B II,2.0,4.0,,2,80 ft,80,"Fall, Summer, Spring",True,True,True,False,,,,Passenger,False
+501,Big Horn Canyon,"38° 39' 40.32"" N, 109° 35' 40.56"" W",Arches National Park,3.1,3A II (v3a1 II),3A II,3.0,5.0,,3,80 ft,80,All year,False,False,False,False,,,,Passenger,False
+55429,Rim Shot,"38° 33' 28.08"" N, 109° 34' 42.96"" W",Kane Creek Road,2.9,3A II (<i>v3a1 II</i>),3A II,,,2.95,6,210 ft,210,"Spring, Fall",True,False,True,False,,0 minutes,0.0,Passenger,False
+1125,Onion Creek,"38° 43' 10.56"" N, 109° 17' 12.84"" W",Castle Valley,3.1,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,4.6,1,30 ft,30,"Fall, Summer, Spring",True,True,True,False,,,,4WD - High Clearance,True
+514,U-Turn Canyon,"38° 37' 27.84"" N, 109° 36' 14.76"" W",Arches National Park,2.7,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,1.0,3,102 ft,102,All year,False,False,False,False,,0 minutes,0.0,Passenger,False
+513,Tierdrop Canyon,"38° 37' 32.16"" N, 109° 36' 23.04"" W",Arches National Park,2.9,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,,3,132 ft,132,All year,False,False,False,False,,0 minutes,0.0,Passenger,False
+509,Not Tierdrop Canyon,"38° 37' 29.64"" N, 109° 36' 18.72"" W",Arches National Park,2.8,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,,2,197 ft,197,All year,False,False,False,False,,0 minutes,0.0,Passenger,False
+55230,Crack'N Jill,"38° 32' 40.00"" N, 109° 34' 56.00"" W",Kane Creek Road,3.1,4A III (<i>v4a1 III</i>),4A III,,,3.0,5,80 ft,80,,,,,,,0 minutes,0.0,Passenger,False
+58188,Brides Canyon (Upper),"38° 37' 3.72"" N, 109° 39' 15.12"" W",Gemini Bridges,3.0,3A II (<i>v3a1 II</i>),3A II,3.0,5.0,2.0,4,50 ft,50,"Spring and Fall are best, but winter is fine if there isn't too much snow. The Gemini Bridges Road can be quite trecherous when snowy and icy.",True,False,True,True,,0 minutes,0.0,High Clearance,True
+508,MMI Canyon,"38° 46' 51.60"" N, 109° 29' 18.60"" W",Yellow Cat Mesa,2.7,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,4,197 ft,197,"Fall, Winter, Spring",True,False,True,True,,,,Passenger,False
+515,Winter Camp Slot,"38° 47' 44.88"" N, 109° 26' 11.04"" W",Yellow Cat Mesa,2.6,3A II (<i>v3a1 II</i>),3A II,1.0,2.0,,1,181 ft,181,"Fall, Winter, Spring",True,False,True,True,,0 minutes,0.0,High Clearance,True
+55227,Bow and Arrow,"38° 32' 30.84"" N, 109° 36' 41.04"" W",Potash Road,2.6,3A II (<i>v3a1 II</i>),3A II,3.0,5.0,2.75,4,100 ft,100,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+7611,Fins and Things Canyon,"38° 34' 33.60"" N, 109° 29' 34.44"" W",Sand Flats Road,2.7,3A II (<i>v2a1 II</i>),3A II,2.0,5.0,2.5,2,17 ft,17,All year,False,False,False,False,,,,Passenger,False
+7615,Sunseed Canyon,"38° 32' 39.48"" N, 109° 34' 32.88"" W",Kane Creek Road,2.7,3A II (<i>v3a1 II</i>),3A II,3.0,6.0,5.8,2,200 ft,200,All year,False,False,False,False,,,,Passenger,False
+953,Repeat Jr,"38° 47' 59.64"" N, 109° 25' 28.92"" W",Yellow Cat Mesa,2.4,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,,1,197 ft,197,"Fall, Winter, Spring",True,False,True,True,,,,High Clearance,True
+502,Cameltoe Canyon,"38° 35' 43.80"" N, 109° 37' 36.84"" W",Potash Road,2.3,3B II (<i>v3a2 II</i>),3B II,3.0,5.0,,3,50 ft,50,"Fall, Summer, Spring",True,True,True,False,,0 minutes,0.0,Passenger,False
+74609,Mel Slot (Tombstone),"38° 15' 12.60"" N, 109° 20' 42.72"" W",Moab,3.5,3A II (<i>v3a1 II</i>),3A II,,,4.3,3,130 ft,130,"Spring, Fall",True,False,True,False,,0 minutes,0.0,High Clearance,True
+1120,Covert Arch,"38° 47' 51.00"" N, 109° 26' 6.00"" W",Yellow Cat Mesa,3.3,2A II (<i>v1a1 II</i>),2A II,1.0,2.0,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+43424,Lockjaw Canyon,"38° 35' 49.92"" N, 109° 40' 14.16"" W",Moab,2.0,3A III (<i>v3a1 III</i>),3A III,3.0,5.0,,2,80 ft,80,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,4WD - High Clearance,True
+34290,Elephant Canyon,"38° 11' 42.72"" N, 109° 50' 51.36"" W",Canyonlands National Park,2.5,3A IV (<i>v3a1 IV</i>),3A IV,,,9.0,4,80 ft,80,Late Winter or Fall. The area is closed from May 1 to September 1. March or April might be difficult since you have to hike along the river.,False,False,True,True,,0 minutes,0.0,Passenger,False
+42963,Marble Canyon (disambiguation),"38° 59' 59.64"" N, 109° 7' 54.84"" W",Castle Valley,3.7,3B I (v4a2 III),3B I,,,,7,180 ft,180,"Spring, Summer, Fall",True,True,True,False,,120 minutes,120.0,Passenger,False
+30753,Faux Falls,"38° 28' 51.96"" N, 109° 24' 41.76"" W",Spanish Valley,2.3,3C II (<i>v3a4 II</i>),3C II,1.0,3.0,0.5,2,75 ft,75,May-Jun,False,False,False,False,,0 minutes,0.0,Passenger,False
+43755,Eye of the Whale,"38° 42' 55.08"" N, 109° 36' 6.12"" W",Arches National Park,2.6,2A I (<i>v1a1 I</i>),2A I,,,,,0 ft,0,,,,,,,,,,False
+43426,Mastodon Canyon,"38° 32' 51.36"" N, 109° 35' 12.84"" W",Kane Creek Road,2.0,2A I (<i>v1a1 I</i>),2A I,,,,,0 ft,0,,,,,,,,,,False
+43423,Longbow Arch,"38° 31' 58.08"" N, 109° 36' 31.68"" W",Potash Road,3.0,POI 2A II (<i>v1a1 II</i>),POI 2A II,2.0,3.0,1.2,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+81177,Elephant BUTT,"38° 41' 41.28"" N, 109° 32' 28.32"" W",Arches National Park,4.0,3A III (<i>v3a1 III</i>),3A III,,,,3,280 ft,280,,,,,,,,,,False
+25672,Holeman Slot,"38° 23' 41.28"" N, 109° 57' 36.72"" W",Canyonlands National Park,2.0,4B II (<i>v4a2 II</i>),4B II,,,,1,90 ft,90,,,,,,,0 minutes,0.0,4WD - High Clearance,True
+1121,Funnel Arch,"38° 31' 19.20"" N, 109° 35' 53.52"" W",Kane Creek Road,2.0,3A II (<i>v3a1 II</i>),3A II,,,,3,90 ft,90,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+34294,Thompson Canyon,"39° 3' 7.92"" N, 109° 43' 17.04"" W",Moab,3.0,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+18718,Moab Wind Caves,"38° 27' 2.88"" N, 109° 39' 55.08"" W",Kane Creek Road,2.0,Cave 2A I (<i>v1a1 I</i>),Cave 2A I,,,,,0 ft,0,,,,,,,,,,False
+91370,Stooge Pen,"38° 37' 49.44"" N, 109° 36' 26.28"" W",Arches National Park,2.0,,,,,,,,,,,,,,,,,,False
+43425,Cut Canyon (Upper),"38° 32' 36.96"" N, 109° 35' 15.36"" W",Kane Creek Road,1.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,,,,,,,,,,False
+91109,Boris Canyon,"38° 47' 39.48"" N, 109° 7' 6.24"" W",Moab,0.0,,,,,,,,,,,,,,,,,,False
+92246,Fat Juni,"38° 38' 1.68"" N, 109° 40' 16.32"" W",Gemini Bridges,0.0,3A (<i>v3a1</i>),3A,,,,,,,,,,,,,,,,False
+91112,Jumping Juniper,"38° 47' 33.36"" N, 109° 8' 36.96"" W",Moab,0.0,,,,,,,,,,,,,,,,,,False
+99920,Lost Trekker,"39° 0' 37.08"" N, 109° 54' 2.88"" W",Moab,0.0,,,,,,,,,,,,,,,,,,False
+91110,Lusi Canyon,"38° 47' 8.16"" N, 109° 5' 30.12"" W",Moab,0.0,,,,,,,,,,,,,,,,,,False
+18717,Ruby's Ladder and Tramway,"38° 38' 17.16"" N, 109° 46' 16.32"" W",Moab,0.0,POI,POI,,,,,,,,,,,,,,,,False
+91111,Sage Canyon,"38° 45' 37.08"" N, 109° 6' 41.40"" W",Moab,0.0,,,,,,,,,,,,,,,,,,False
+34293,Sagers Canyon,"39° 1' 1.92"" N, 109° 37' 22.08"" W",Moab,0.0,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+1127,Sevenmile Canyon,,Arches National Park,0.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,,,,,,,,,,False
+1129,Snake In Mouth,,Arches National Park,0.0,2A I (<i>v1a1 I</i>),2A I,,,,,0 ft,0,,,,,,,,,,False
+46156,Sunseed,"38° 32' 34.44"" N, 109° 35' 31.92"" W",Kane Creek Road,0.0,POI,POI,,,,,,,,,,,,,,,,False
+43754,Tower Arch,"38° 47' 33.00"" N, 109° 40' 31.08"" W",Arches National Park,0.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,,,,,,,,,,False

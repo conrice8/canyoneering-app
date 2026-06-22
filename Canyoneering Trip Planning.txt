@@ -1,0 +1,12 @@
+Canyoneering Trip Planning
+
+Conner Rice, Truman Porter, Luke Spencer
+
+Project details: We are creating a trip planning dashboard that contains the essential information for a canyoneering trip. There are various variables that need to be accounted for on a canyoneering trip such as rope length, weather, water levels, anchor availability that currently require hours of scouring different websites to get accurate information for. This information is also written in paragraph form and hard to access for a quick search of potential canyons. This limits new potential canyons as they are hard to access. 
+
+Question: How can we quickly search and access information for potential canyoneering routes?
+
+Type of Analysis: Our analysis will be creating an algorithm for the best canyoneering routes based on criteria that is input by the user.  We will create an interactive tableau dashboard that allows the user to filter for canyons based on pertinent criteria. The primary page of our tableau dashboard will feature a map of routes pinned by start location in Utah. We will create appropriate calculated fields to improve the usefulness of the data (ex. Total rope needed based on max rappel length).
+
+Type of Data: We will scrape data into a CSV off of a canyoneering website. We will then use SQL to clean and join all of the data we’ve collected. We will then visualize this cleaned and joined data with Tableau.
+

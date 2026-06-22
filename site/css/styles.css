@@ -1,0 +1,204 @@
+/* ===========================================================================
+   Utah Canyoneering Trip Planner — styles
+   Desert/sandstone palette; 3-pane app layout (filters | map+table | detail).
+   =========================================================================== */
+:root {
+  --sand:        #ece6dc;
+  --sand-2:      #f6f2ea;
+  --ink:         #2b2723;
+  --ink-soft:    #5c534a;
+  --line:        #d8cfc0;
+  --card:        #ffffff;
+  --rust:        #c2613f;
+  --rust-dark:   #a14a2c;
+  --shadow:      0 1px 3px rgba(43, 39, 35, .12), 0 1px 2px rgba(43, 39, 35, .08);
+  --radius:      10px;
+  --header-h:    64px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--sand);
+}
+
+/* ---------- Header ---------- */
+.app-header {
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 22px;
+  background: linear-gradient(120deg, #2f2a25, #443a30);
+  color: #f4ede2;
+  box-shadow: var(--shadow);
+  z-index: 1000;
+  position: relative;
+}
+.title-block h1 { font-size: 1.18rem; margin: 0; letter-spacing: .2px; }
+
+/* ---------- Body layout ---------- */
+.app-body {
+  display: grid;
+  grid-template-columns: 290px 1fr 330px;
+  height: calc(100vh - var(--header-h));
+}
+
+/* ---------- Sidebar ---------- */
+.sidebar {
+  background: var(--sand-2);
+  border-right: 1px solid var(--line);
+  overflow-y: auto;
+  padding: 16px 16px 40px;
+}
+.sidebar-head {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 12px;
+}
+.sidebar-head h2 { font-size: .95rem; margin: 0; text-transform: uppercase; letter-spacing: .8px; color: var(--ink-soft); }
+.reset-btn {
+  border: 1px solid var(--line); background: #fff; color: var(--rust-dark);
+  font-size: .76rem; font-weight: 600; padding: 4px 10px; border-radius: 6px; cursor: pointer;
+}
+.reset-btn:hover { background: var(--rust); color: #fff; border-color: var(--rust); }
+
+.field { margin-bottom: 16px; }
+.field > label,
+.field-label { display: block; font-size: .8rem; font-weight: 600; color: var(--ink-soft); margin-bottom: 6px; }
+.field input[type="search"],
+.field input[type="number"] {
+  width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 7px;
+  font-size: .88rem; background: #fff;
+}
+.field input[type="search"]:focus,
+.field input[type="number"]:focus { outline: 2px solid var(--rust); border-color: var(--rust); }
+.field input[type="range"] { width: 100%; accent-color: var(--rust); }
+.field strong { color: var(--rust-dark); }
+.field-hint { font-size: .72rem; color: var(--ink-soft); line-height: 1.4; margin: 6px 0 0; }
+
+/* rope inventory ("my rope length") */
+.rope-kit .rope-hide {
+  display: flex; align-items: center; gap: 6px; cursor: pointer;
+  font-size: .78rem; font-weight: 400; color: var(--ink); margin: 8px 0 0;
+}
+.rope-kit .rope-hide input { accent-color: var(--rust); }
+.rope-mark { font-weight: 700; }
+.rope-mark.ok { color: #1f7a3d; }
+.rope-mark.no { color: var(--rust-dark); }
+#canyon-table tbody tr.rope-short td { color: #9c958b; }
+#canyon-table tbody tr.rope-short:hover td { color: var(--ink-soft); }
+
+/* chips (checkbox/toggle groups) */
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: .78rem; padding: 4px 9px; border: 1px solid var(--line);
+  background: #fff; border-radius: 20px; cursor: pointer; user-select: none;
+}
+.chip input { margin: 0; accent-color: var(--rust); }
+.chip:has(input:checked) { background: var(--rust); color: #fff; border-color: var(--rust); }
+.region-chips .swatch { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+
+.radio-row { display: flex; flex-direction: column; gap: 5px; }
+.radio { font-size: .82rem; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.radio input { accent-color: var(--rust); }
+
+/* ---------- Main (map + table) ---------- */
+.main { display: flex; flex-direction: column; min-width: 0; overflow: hidden; }
+.map-wrap { position: relative; height: 48%; min-height: 240px; border-bottom: 1px solid var(--line); }
+#map { width: 100%; height: 100%; background: #dfe3da; }
+
+.legend {
+  position: absolute; bottom: 12px; right: 12px; z-index: 500;
+  background: rgba(255,255,255,.94); border: 1px solid var(--line); border-radius: 8px;
+  padding: 8px 10px; box-shadow: var(--shadow); max-height: 42%; overflow: auto;
+  font-size: .72rem; line-height: 1.5;
+}
+.legend h4 { margin: 0 0 4px; font-size: .7rem; text-transform: uppercase; letter-spacing: .5px; color: var(--ink-soft); }
+.legend-row { display: flex; align-items: center; gap: 6px; }
+.legend-row .swatch { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+
+/* ---------- Table ---------- */
+.table-wrap { flex: 1; overflow: auto; background: var(--card); }
+#canyon-table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+#canyon-table thead th {
+  position: sticky; top: 0; z-index: 2;
+  background: #efe8dc; color: var(--ink); text-align: left;
+  padding: 8px 10px; border-bottom: 2px solid var(--line);
+  cursor: pointer; white-space: nowrap; font-weight: 600;
+}
+#canyon-table thead th:hover { background: #e6dccb; }
+#canyon-table thead th .arrow { color: var(--rust); font-size: .7rem; margin-left: 3px; }
+#canyon-table tbody td { padding: 7px 10px; border-bottom: 1px solid #efe9df; white-space: nowrap; }
+#canyon-table tbody tr { cursor: pointer; }
+#canyon-table tbody tr:hover { background: #faf5ec; }
+#canyon-table tbody tr.selected { background: #fdeee4; box-shadow: inset 3px 0 0 var(--rust); }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.region-cell { display: inline-flex; align-items: center; gap: 6px; }
+.region-cell .swatch { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+.empty-msg { text-align: center; color: var(--ink-soft); padding: 30px; font-style: italic; }
+
+/* ---------- Detail panel ---------- */
+.detail {
+  background: var(--sand-2); border-left: 1px solid var(--line);
+  overflow-y: auto; padding: 18px 18px 40px;
+}
+.detail-placeholder { color: var(--ink-soft); font-size: .9rem; line-height: 1.6; margin-top: 30px; }
+.detail-content h3 { margin: 0 0 2px; font-size: 1.15rem; }
+.detail-region { display: inline-flex; align-items: center; gap: 6px; font-size: .8rem; color: var(--ink-soft); margin-bottom: 14px; }
+.detail-region .swatch { width: 11px; height: 11px; border-radius: 50%; }
+
+/* trip-readiness summary */
+.readiness {
+  border: 1px solid var(--line); border-radius: 8px; background: #fff;
+  padding: 10px 12px; margin-bottom: 16px; font-size: .84rem; line-height: 1.5;
+}
+.readiness .r-status { display: block; font-weight: 700; margin-bottom: 3px; }
+.readiness .r-line { color: var(--ink-soft); }
+.readiness .r-gap { margin: 8px 0 0; font-size: .76rem; color: var(--ink-soft); font-style: italic; }
+.readiness.ready   { background: #edf6ee; border-color: #c2e0c6; }
+.readiness.ready   .r-status { color: #1f7a3d; }
+.readiness.short   { background: #fdeee4; border-color: #e8c3b2; }
+.readiness.short   .r-status { color: var(--rust-dark); }
+.readiness.unknown { background: #f4f1e9; }
+.readiness.neutral .r-status { color: var(--ink); }
+
+.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+.stat {
+  background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px;
+}
+.stat .k { font-size: .68rem; text-transform: uppercase; letter-spacing: .4px; color: var(--ink-soft); }
+.stat .v { font-size: 1.0rem; font-weight: 600; margin-top: 2px; }
+.stat.wide { grid-column: 1 / -1; }
+
+.detail-section { margin-bottom: 14px; }
+.detail-section h4 { font-size: .72rem; text-transform: uppercase; letter-spacing: .5px; color: var(--ink-soft); margin: 0 0 6px; }
+.season-pills { display: flex; gap: 6px; flex-wrap: wrap; }
+.season-pill { font-size: .75rem; padding: 3px 9px; border-radius: 14px; background: #e7decd; color: var(--ink-soft); }
+.season-pill.on { background: var(--rust); color: #fff; }
+.detail-note { font-size: .82rem; color: var(--ink-soft); line-height: 1.5; }
+.ropewiki-link {
+  display: inline-block; margin-top: 6px; font-size: .82rem; font-weight: 600;
+  color: var(--rust-dark); text-decoration: none;
+}
+.ropewiki-link:hover { text-decoration: underline; }
+.badge { display: inline-block; font-size: .72rem; font-weight: 700; padding: 2px 7px; border-radius: 5px; background: #efe8dc; color: var(--ink); }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 1100px) {
+  .app-body { grid-template-columns: 250px 1fr; }
+  .detail { display: none; }
+  .detail.open {
+    display: block; position: fixed; top: var(--header-h); right: 0; bottom: 0;
+    width: min(360px, 90vw); z-index: 1500; box-shadow: -4px 0 16px rgba(0,0,0,.18);
+  }
+}
+@media (max-width: 720px) {
+  .app-body { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
+  .sidebar { max-height: 38vh; }
+  .map-wrap { height: 300px; }
+}

@@ -1,0 +1,121 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+592,Choprock Canyon (South Fork),"37° 38' 3.84"" N, 111° 10' 31.80"" W",Choprock Bench,5.0,4B V R (<i>v5a2 V</i>),4B V R,11.0,14.0,,5,70 ft,70,Spring; Fall; Aug,True,False,True,False,,0 minutes,0.0,High Clearance,True
+445,Buckskin Gulch,"37° 1' 12.00"" N, 112° 1' 24.96"" W",Southwest Escalante,4.7,2B V (v3a2 V),2B V,4.333,48.0,20.0,1,49.213 ft,49,Spring;Summer;Fall;HOT in Summer,True,True,True,False,hot in summer,,,Passenger,False
+742,Brimstone Gulch (lower),"37° 29' 13.20"" N, 111° 11' 37.32"" W",Escalante,4.6,4B II R (<i>v5a2 II</i>),4B II R,4.0,5.0,4.5,,,,BEST in Apr;May;Jun;Oct,False,False,False,False,,,,,False
+774,Sleepy Hollow,"37° 27' 1.80"" N, 111° 4' 45.48"" W",Escalante,5.0,4B IV X (<i>v6a2 IV</i>),4B IV X,8.0,11.0,7.0,2,70 ft,70,,,,,,,,,,False
+48510,Holy Cow Canyon,"37° 46' 28.92"" N, 111° 12' 15.12"" W",Escalante,4.6,4B III (<i>v4a2 III</i>),4B III,7.0,10.0,4.6,6,100 ft,100,,,,,,,0 minutes,0.0,Passenger,False
+11040,Islomania Dome,"37° 42' 31.68"" N, 111° 21' 6.48"" W",Escalante,4.7,POI,POI,5.0,7.0,,,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+499,Death Hollow,"37° 47' 1.68"" N, 111° 30' 25.92"" W",Escalante,4.4,2B V (<i>v1a2 V</i>),2B V,72.0,120.0,,0,0 ft,0,Spring; Summer; Fall,True,True,True,False,,,,,False
+467,Neon Canyon,"37° 36' 42.84"" N, 111° 9' 52.56"" W",Choprock Bench,4.3,3B IV (<i>v3a2 IV</i>),3B IV,8.0,10.0,10.8,5,83 ft,83,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+762,Micro Death Hollow,"37° 46' 9.48"" N, 111° 29' 49.92"" W",Escalante,4.3,3B II R (<i>v5a2 II</i>),3B II R,3.0,6.0,2.9,3,275.591 ft,275,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+745,Coyote Gulch,"37° 24' 59.76"" N, 111° 2' 25.44"" W",Escalante,4.3,2B V (<i>v1a2 V</i>),2B V,,,,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+767,Raven Canyon,"37° 26' 18.60"" N, 111° 5' 37.68"" W",Escalante,4.0,3A III R (<i>v5a1 III</i>),3A III R,3.0,5.0,6.1,,,,,,,,,,0 minutes,0.0,High Clearance,True
+500,Headless Hen,"37° 26' 28.32"" N, 111° 5' 56.76"" W",Escalante,4.0,4B III R (<i>v5a2 III</i>),4B III R,3.0,6.0,5.6,5,40 ft,40,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,,False
+766,Peek-a-Boo Canyon,"37° 28' 56.28"" N, 111° 12' 58.32"" W",Escalante,3.9,2A I (<i>v1a1 I</i>),2A I,3.0,6.0,2.9,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+773,Spooky Gulch,"37° 29' 2.04"" N, 111° 12' 32.04"" W",Escalante,3.9,2A I (<i>v1a1 I</i>),2A I,3.0,5.0,2.9,,0 ft,0,BEST in Apr;May;Jun;Oct,False,False,False,False,,,,,False
+769,Ringtail Canyon,"37° 36' 1.80"" N, 111° 9' 20.52"" W",Choprock Bench,3.7,3B IV R (<i>v5a2 IV</i>),3B IV R,6.0,11.0,11.8,2,15 ft,15,Apr;May;Jun;Jul;Aug;Sep,False,False,False,False,,0 minutes,0.0,High Clearance,True
+746,Davis Gulch,"37° 16' 15.60"" N, 110° 58' 22.08"" W",Escalante,3.8,2B III (<i>v1a2 III</i>),2B III,6.0,7.0,,,0 ft,0,Spring; Fall; Winter,True,False,True,True,,,,,False
+749,Egypt 1 Canyon,"37° 34' 20.28"" N, 111° 15' 27.36"" W",The Egypts,3.7,3A I (<i>v3a1 I</i>),3A I,2.0,4.0,1.7,3,30 ft,30,Any; hot in summer,True,True,True,True,hot in summer,,,,False
+778,Zebra Canyon,"37° 39' 37.08"" N, 111° 25' 2.64"" W",Escalante,3.8,2B II (<i>v1a2 II</i>),2B II,2.0,5.0,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+763,PINTAC,"37° 26' 3.84"" N, 111° 3' 4.32"" W",Escalante,4.6,4B IV XX (<i>v7a2 IV</i>),4B IV XX,8.0,12.0,11.0,2,75 ft,75,"Winter, Spring, Fall, Avoid temps over 70 degrees",True,False,True,True,,0 minutes,0.0,4WD,True
+770,Sad Cow Disease,"37° 45' 31.32"" N, 111° 13' 28.20"" W",Escalante,3.9,3B III (<i>v3a2 III</i>),3B III,5.0,7.0,9.2,3,100 ft,100,Spring; Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+1055,Stone Donkey Canyon,"37° 20' 51.00"" N, 111° 56' 40.20"" W",Southwest Escalante,3.9,3B (<i>v3a2</i>),3B,,,,,,,,,,,,,,,,False
+759,Little Death Hollow,"37° 45' 9.00"" N, 111° 13' 12.00"" W",Escalante,4.3,2A <i>V</i> (<i>v1a1 V</i>),2A <i>V</i>,8.0,48.0,,,0 ft,0,Spring;Fall;Winter,True,False,True,True,,,,,False
+743,Calf Creek Falls (Lower),"37° 49' 45.48"" N, 111° 25' 13.08"" W",Escalante,4.0,3C III (<i>v3a4 III</i>),3C III,3.0,5.0,,2,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+1050,Deer Creek Canyon (Southwest Escalante),"37° 22' 50.88"" N, 112° 3' 37.80"" W",Southwest Escalante,4.0,3A IV (<i>v3a1 IV</i>),3A IV,12.0,48.0,14.0,4,75 ft,75,Spring;Summer;Fall;Winter,True,True,True,True,,0 minutes,0.0,4WD - High Clearance,True
+451,Egypt 2 Canyon,"37° 34' 50.88"" N, 111° 14' 33.00"" W",The Egypts,3.7,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,4.2,2,280 ft,280,Any; hot in summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+32769,Midget Rattler,"37° 52' 0.84"" N, 111° 18' 8.64"" W",Escalante,3.7,3A II PG (<i>v4a1 II</i>),3A II PG,,,,,100 ft,100,,,,,,,0.5 minutes,0.5,Passenger,False
+748,Dry Fork Slot,"37° 29' 0.24"" N, 111° 13' 29.28"" W",Escalante,3.8,1A II (<i>v1a1 II</i>),1A II,,,4.5,,0 ft,0,BEST in Apr;May;Jun;Oct,False,False,False,False,,,,,False
+768,Red Breaks,"37° 40' 40.44"" N, 111° 20' 52.08"" W",Escalante,3.5,3A III (<i>v2a1 III</i>),3A III,4.0,8.5,6.5,1,26.247 ft,26,Fall; Winter; Spring,True,False,True,True,,0 minutes,0.0,,False
+1057,Wire Pass Canyon,"37° 1' 13.08"" N, 112° 0' 22.32"" W",Southwest Escalante,3.8,2A (<i>v1a1</i>),2A,,,,,0 ft,0,,,,,,,,,,False
+1053,Round Valley Draw,"37° 27' 9.72"" N, 111° 54' 43.20"" W",Southwest Escalante,3.6,2A II (<i>v1a1 II</i>),2A II,3.0,5.0,3.0,2,15 ft,15,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+739,Baker Canyon (West Fork),"37° 36' 5.40"" N, 111° 7' 24.60"" W",Choprock Bench,3.6,3B IV (<i>v3a2 IV</i>),3B IV,,,,5,,,,,,,,,,,,False
+32776,Aardvark Canyon (South Fork),"37° 48' 17.28"" N, 111° 14' 17.88"" W",Escalante,4.0,3B III R (<i>v5a2 III</i>),3B III R,7.0,8.0,4.2,6,140 ft,140,Spring or Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+775,Spencer Canyon,"37° 43' 2.64"" N, 111° 20' 20.76"" W",Escalante,3.3,3B III (<i>v3a2 III</i>),3B III,,,4.8,6,70 ft,70,Spring;Summer;Fall;HOT in Summer,True,True,True,False,hot in summer,0 minutes,0.0,High Clearance,True
+1056,Willis Creek Narrows,"37° 28' 54.48"" N, 112° 4' 56.64"" W",Southwest Escalante,3.5,1B II (<i>v1a2 II</i>),1B II,1.0,3.0,,0,0 ft,0,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,,False
+741,Bishop Canyon,"37° 22' 42.96"" N, 110° 59' 11.76"" W",Escalante,5.0,3B IV XX (<i>v7a2 IV</i>),3B IV XX,,,,,,,,,,,,,,,,False
+46523,Frosted Flakes,"37° 26' 34.08"" N, 111° 4' 32.52"" W",Escalante,5.0,3A III X (<i>v6a1 III</i>),3A III X,,,,,,,,,,,,,0 minutes,0.0,,False
+19725,Dominquez Canyon,"37° 13' 52.68"" N, 112° 24' 49.32"" W",Southwest Escalante,4.2,3A III (<i>v3</i>a1 <i>III</i>),3A III,4.0,8.0,,3,105 ft,105,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+498,Bull Valley Gorge,"37° 28' 21.00"" N, 112° 6' 40.68"" W",Southwest Escalante,3.3,2B II (<i>v1a2 II</i>),2B II,2.0,4.0,,,0 ft,0,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,,False
+5876,Egypt 1.5 Canyon (Bobo),"37° 34' 33.24"" N, 111° 14' 53.52"" W",The Egypts,3.2,3B I (<i>v3a2 I</i>),3B I,1.5,4.0,1.1,3,35 ft,35,,,,,,,0 minutes,0.0,4WD,True
+747,Don't Do It Canyon,"37° 26' 18.60"" N, 111° 3' 51.12"" W",Escalante,4.0,4B III X (<i>v6a2 III</i>),4B III X,,,,3,,,"Fall, Winter, Spring",True,False,True,True,,0 minutes,0.0,High Clearance,True
+48508,Dunham Slot,"37° 28' 40.80"" N, 112° 2' 21.84"" W",Southwest Escalante,3.2,3A II (<i>v3a1 II</i>),3A II,3.0,4.0,,2,80 ft,80,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+39730,Egypt 3,"37° 35' 37.68"" N, 111° 13' 48.72"" W",The Egypts,3.3,2A III PG (<i>v1a1 III</i>),2A III PG,,,,,0 ft,0,,,,,,,,,,False
+57048,Headless Duck,"37° 52' 56.28"" N, 111° 16' 3.72"" W",Escalante,3.3,3A III (<i>v3a1 III</i>),3A III,3.0,7.0,,,150 ft,150,"Spring, Fall",True,False,True,False,,0.5 minutes,0.5,Passenger,False
+83095,Potholy Grail,"37° 17' 16.08"" N, 111° 1' 41.52"" W",Escalante,4.0,POI 3A I PG (<i>v4a1 I</i>),POI 3A I PG,,,,,100 ft,100,,,,,,,0 minutes,0.0,High Clearance,True
+744,Calf Creek Falls (Upper),"37° 51' 17.64"" N, 111° 27' 7.20"" W",Escalante,3.4,2A II (<i>v1a1 II</i>),2A II,1.0,3.0,,,0 ft,0,Any,True,True,True,True,,,,,False
+19738,Little Baker Slots,"37° 34' 57.00"" N, 111° 6' 32.76"" W",Choprock Bench,4.0,,,,,,,,,,,,,,,,,,False
+1048,Catstair Canyon,"37° 7' 35.40"" N, 111° 57' 46.44"" W",Southwest Escalante,2.8,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,1.2,2,60 ft,60,Autumn to Spring;BEST in Feb;Mar;Sep;Oct;Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+42416,Rabbit of Caerbonn (ROC),"37° 28' 34.68"" N, 111° 11' 36.96"" W",Escalante,3.3,4A II R (<i>v5a1 II</i>),4A II R,3.0,4.0,5.0,0,,,,,,,,,0 minutes,0.0,Passenger,False
+1049,Cottonwood Narrows,"37° 23' 57.48"" N, 111° 51' 2.88"" W",Southwest Escalante,2.9,1A I (<i>v1a1 I</i>),1A I,1.0,2.0,2.5,0,0 ft,0,Spring to Autumn;BEST in Apr;May;Sep;Oct,True,False,True,False,,0 minutes,0.0,,False
+56944,Right Atrium,"37° 20' 42.36"" N, 111° 0' 10.44"" W",Escalante,4.3,4B III R (<i>v5a2 III</i>),4B III R,7.0,8.0,,,120 ft,120,"Spring, Fall",True,False,True,False,,60 minutes,60.0,4WD - High Clearance,True
+50234,Bad Neighbor,"37° 21' 52.56"" N, 110° 59' 33.72"" W",Escalante,5.0,4A IV XX (<i>v7a1 IV</i>),4A IV XX,7.0,9.0,,1,100 ft,100,,,,,,,0 minutes,0.0,,False
+776,Tunnel Slot,"37° 39' 10.44"" N, 111° 24' 23.76"" W",Escalante,2.6,1A II (<i>v1a1 II</i>),1A II,,,,,0 ft,0,,,,,,,0 minutes,0.0,High Clearance,True
+28094,Fortymile Gulch,"37° 20' 0.96"" N, 110° 59' 29.40"" W",Escalante,4.0,2B (<i>v1a2</i>),2B,,,,,0 ft,0,,,,,,,,,,False
+32768,Pothole Fork of Sleepy Hollow,"37° 26' 47.76"" N, 111° 4' 44.40"" W",Escalante,4.0,3B III R (<i>v5a2 III</i>),3B III R,,,,,,,,,,,,,,,,False
+756,The Gulch,"37° 51' 35.28"" N, 111° 18' 41.04"" W",Escalante,4.0,,,72.0,96.0,,,,,Spring;Fall,True,False,True,False,,,,,False
+19726,Dry Hollow,"37° 53' 34.44"" N, 111° 27' 22.68"" W",Escalante,3.0,3A I PG (<i>v4a1 I</i>),3A I PG,1.0,2.0,,1,65 ft,65,Any time,True,True,True,True,,,,Passenger,False
+761,Long Branch,"37° 26' 21.48"" N, 111° 4' 11.28"" W",Escalante,4.7,4B III XX (<i>v7a2 III</i>),4B III XX,,,,,,,,,,,,,,,,False
+771,Ponderosa Fork,"37° 28' 3.36"" N, 111° 7' 38.64"" W",Escalante,4.0,4B III R (<i>v5a2 III</i>),4B III R,,,7.3,3,35 ft,35,,,,,,,,,,False
+757,Llewellyn Gulch,"37° 14' 2.40"" N, 110° 57' 58.68"" W",Escalante,4.5,,,,,,,,,,,,,,,,,,False
+1047,Booker Canyon,"37° 24' 43.56"" N, 111° 55' 18.84"" W",Southwest Escalante,3.0,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+764,Phipps Wash,"37° 45' 39.24"" N, 111° 24' 33.12"" W",Escalante,3.0,2A IV (<i>v1a1 IV</i>),2A IV,4.0,6.0,,,0 ft,0,Any;EXCEPT in Spring,True,True,True,True,,,,,False
+84023,Rattle King,"37° 55' 33.96"" N, 111° 14' 32.28"" W",Escalante,3.0,3A I (<i>v3a1 I</i>),3A I,,,,4,55.774 ft,55,,,,,,,,,,False
+751,Egypt 4 Canyon,"37° 34' 28.92"" N, 111° 13' 34.32"" W",The Egypts,4.0,3B III X (<i>v6a2 III</i>),3B III X,,,,,,,,,,,,,,,,False
+752,Egypt 5 Canyon,"37° 35' 15.72"" N, 111° 13' 4.80"" W",The Egypts,4.0,3A III R (<i>v5a1 III</i>),3A III R,,,,,,,,,,,,,,,,False
+39727,Mumbai,"37° 19' 54.12"" N, 110° 57' 33.12"" W",Escalante,4.0,3B IV X (<i>v6a2 IV</i>),3B IV X,11.0,,11.0,5,90 ft,90,,,,,,,0 minutes,0.0,High Clearance,True
+53802,O.B.,"37° 47' 24.72"" N, 111° 30' 44.64"" W",Escalante,4.0,4B IV (<i>v4a2 IV</i>),4B IV,,,,,,,,,,,,,,,,False
+772,Box Elder Canyon,"37° 27' 57.60"" N, 111° 8' 49.20"" W",Escalante,5.0,4A IV XX (<i>v7a1 IV</i>),4A IV XX,7.0,8.0,,0,,,Spring,True,False,False,False,,0 minutes,0.0,,False
+45938,Brimstone Gulch (upper),"37° 31' 4.44"" N, 111° 10' 57.00"" W",Escalante,3.2,4B III (<i>v4a2 III</i>),4B III,,,,2,32.808 ft,32,,,,,,,0 minutes,0.0,Passenger,False
+755,Fuzzy Caterpillar Gorge,"37° 51' 54.00"" N, 111° 18' 3.96"" W",Escalante,3.0,1 (<i>v1</i>),1,,,1.0,,0 ft,0,BEST in Mar;Apr;Sep;Oct,False,False,False,False,,,,,False
+1054,Starlight Canyon,"37° 17' 13.20"" N, 112° 0' 55.80"" W",Southwest Escalante,3.0,,,,,,,,,,,,,,,,,,False
+738,Baker Canyon (East Fork),"37° 36' 2.52"" N, 111° 7' 1.56"" W",Choprock Bench,3.7,3B IV (<i>v3a2 IV</i>),3B IV,,,,,,,,,,,,,,,,False
+32779,Aardvark Canyon (North Fork),"37° 48' 34.20"" N, 111° 14' 39.84"" W",Escalante,3.5,3B III (<i>v3a2 III</i>),3B III,7.0,8.0,,6,140 ft,140,Spring or Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+84008,Tilted Teepees,"37° 54' 6.84"" N, 111° 15' 12.60"" W",Escalante,3.5,3A I (<i>v2a1 I</i>),3A I,,,,2,29.528 ft,29,,,,,,,,,,False
+754,Fence Canyon,"37° 36' 16.56"" N, 111° 11' 43.08"" W",Choprock Bench,2.6,,,,,,,,,,,,,,,,,,False
+59370,Bown Star Canyon (Left Fork),"37° 45' 23.40"" N, 111° 10' 14.16"" W",Escalante,3.3,3A III (<i>v3a1 III</i>),3A III,,,,,,,,,,,,,,,,False
+43062,King Tut,"37° 34' 55.56"" N, 111° 13' 54.84"" W",The Egypts,3.3,3A II R (<i>v5a1 II</i>),3A II R,,,,1,,,,,,,,,,,,False
+84248,Optimus Prime,"37° 54' 18.72"" N, 111° 15' 5.76"" W",Escalante,3.3,3B I (<i>v3a2 I</i>),3B I,,,,4,59.055 ft,59,,,,,,,,,,False
+39863,Drill Hole,"37° 40' 14.52"" N, 111° 23' 0.24"" W",Escalante,2.3,3B III (<i>v3a2 III</i>),3B III,,,,4,32.808 ft,32,,,,,,,,,,False
+53792,Calf Crack,"37° 52' 17.04"" N, 111° 27' 50.40"" W",Escalante,3.0,3A I (<i>v3a1 I</i>),3A I,,,,1,100 ft,100,spring and fall or dry winter days,True,False,True,True,,,,Passenger,False
+19517,Hackberry Canyon,"37° 15' 57.96"" N, 111° 55' 54.84"" W",Southwest Escalante,3.0,2A (<i>v1a1</i>),2A,,,,,0 ft,0,,,,,,,,,,False
+58671,Mantrap,"37° 47' 0.60"" N, 111° 25' 7.68"" W",Escalante,3.0,3B I (<i>v3a2 I</i>),3B I,,,2.0,2,65 ft,65,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+777,Wolverine Canyon,"37° 46' 36.84"" N, 111° 14' 18.60"" W",Escalante,3.0,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+78372,Deer Creek Canyon (North West Fork),"37° 23' 25.44"" N, 112° 3' 48.96"" W",Southwest Escalante,4.0,3A (<i>v3a1</i>),3A,,,,1,,,,,,,,,,,,False
+53884,Early Bird,"37° 32' 44.16"" N, 111° 10' 17.76"" W",Escalante,4.0,3B III R (<i>v5a2 III</i>),3B III R,,,7.0,,,,,,,,,,,,,False
+53806,The Lame Lamanite,"37° 57' 50.76"" N, 111° 16' 51.24"" W",Escalante,2.0,3A III (<i>v3a1 III</i>),3A III,,,,,,,,,,,,,,,,False
+53809,Bump-De-Rump,"37° 48' 13.68"" N, 111° 11' 48.84"" W",Escalante,2.7,2A I (<i>v1a1 I</i>),2A I,,,,,0 ft,0,,,,,,,,,,False
+32777,Big Rattlesnake Canyon,"37° 53' 36.24"" N, 111° 17' 8.52"" W",Escalante,2.5,,,,,,,,,,,,,,,,,,False
+84282,Whisper Canyon,"37° 8' 9.24"" N, 111° 57' 32.04"" W",Southwest Escalante,1.3,3A I (<i>v3a1 I</i>),3A I,,,1.0,3,40 ft,40,Spring to Autumn,True,False,True,False,,0 minutes,0.0,High Clearance,True
+53801,O.C.,"37° 46' 55.56"" N, 111° 30' 44.64"" W",Escalante,2.3,3A III (<i>v3a1 III</i>),3A III,,,,,,,,,,,,,,,,False
+78370,Averett Canyon,"37° 28' 59.52"" N, 112° 4' 45.48"" W",Southwest Escalante,2.0,3A I (<i>v3a1 I</i>),3A I,,,,2,,,,,,,,,,,,False
+84831,Ironhide,"37° 53' 21.48"" N, 111° 15' 56.88"" W",Escalante,2.0,3A I (<i>v3a1 I</i>),3A I,,,,,,,,,,,,,,,,False
+19765,Big Horn Canyon (Escalante),"37° 41' 44.16"" N, 111° 26' 30.48"" W",Escalante,3.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,,,,,,,,,,False
+53799,Durffey's Doozy,"37° 48' 44.64"" N, 111° 22' 51.60"" W",Escalante,3.0,3B I (<i>v3a2 I</i>),3B I,,,,,,,,,,,,,,,,False
+765,Halfway Hollow,"37° 38' 59.28"" N, 111° 25' 43.68"" W",Escalante,3.0,,,,,,,,,,,,,,,,,,False
+48507,Herm Pollock Slot,"37° 25' 41.52"" N, 112° 2' 56.76"" W",Southwest Escalante,3.0,3A <i>III</i> (<i>v3a1 III</i>),3A <i>III</i>,5.0,7.0,8.0,3,37 ft,37,Fall;Winter;Spring,True,False,True,True,,,,,False
+11028,Mossy Cave,"37° 39' 56.52"" N, 112° 6' 36.36"" W",Southwest Escalante,3.0,POI,POI,1.0,,,,,,Any,True,True,True,True,,,,,False
+53790,Not Water Canyon,"37° 53' 32.28"" N, 111° 17' 55.32"" W",Escalante,3.0,3B III PG (<i>v4</i>a2 <i>III</i>),3B III PG,,,,6,140 ft,140,spring and fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+53793,Avain Effluence,"37° 50' 42.00"" N, 111° 18' 23.40"" W",Escalante,1.7,3B I (<i>v2a2 I</i>),3B I,,,,,10 ft,10,,,,,,,,,,False
+46524,Egypt 0,"37° 34' 20.28"" N, 111° 16' 6.60"" W",The Egypts,1.0,3A II (<i>v3a1 II</i>),3A II,,,,3,80 ft,80,,,,,,,,,High Clearance,True
+59372,Bown Eye Canyon,"37° 45' 4.32"" N, 111° 10' 25.32"" W",Escalante,2.0,3A III (<i>v3a1 III</i>),3A III,,,,,,,,,,,,,,,,False
+1051,Lick Wash,"37° 21' 18.36"" N, 112° 10' 40.44"" W",Southwest Escalante,2.0,1A (<i>v1a1</i>),1A,,,,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+53804,Low and Inside,"37° 54' 51.48"" N, 111° 35' 39.48"" W",Escalante,2.0,3A III (<i>v3a1 III</i>),3A III,,,,,,,,,,,,,,,,False
+84830,Megatron,"37° 53' 14.28"" N, 111° 16' 0.84"" W",Escalante,2.0,3A I (<i>v3a1 I</i>),3A I,,,,,,,,,,,,,,,,False
+84832,Rodimus Prime,"37° 53' 35.52"" N, 111° 15' 50.40"" W",Escalante,2.0,3A I (<i>v3a1 I</i>),3A I,,,,,,,,,,,,,,,,False
+19323,Short Slot Canyon,"37° 28' 42.24"" N, 111° 11' 37.68"" W",Escalante,2.0,2A II X (<i>v1a1 II</i>),2A II X,2.0,5.0,,0,0 ft,0,,,,,,,0 minutes,0.0,Passenger,False
+19732,The Snakelet,"37° 51' 53.28"" N, 111° 18' 35.28"" W",Escalante,2.0,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,,3,80 ft,80,,,,,,,,,Passenger,False
+84010,Hoodoo You Love?,"37° 54' 24.84"" N, 111° 15' 4.68"" W",Escalante,1.0,3A I (<i>v3a1 I</i>),3A I,,,,2,164.042 ft,164,,,,,,,,,,False
+53876,The Overachiever,"37° 56' 48.48"" N, 111° 15' 53.28"" W",Escalante,1.0,3A IV PG (<i>v4a1 IV</i>),3A IV PG,,,,9,250 ft,250,NOT summer,False,True,False,False,,,,4WD,True
+737,25 Mile Wash,"37° 33' 28.08"" N, 111° 10' 41.52"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False
+53805,Bear-bones,"38° 1' 48.00"" N, 111° 12' 55.44"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False
+46057,Big Freaking Silo (BFS),"37° 28' 0.12"" N, 111° 9' 54.00"" W",Escalante,0.0,3A II XX (<i>v7a1 II</i>),3A II XX,,,,,,,,,,,,,,,,False
+53885,Choprock (North Fork),"37° 42' 26.64"" N, 111° 7' 21.00"" W",Escalante,0.0,4B IV (<i>v4a2 IV</i>),4B IV,,,,,,,,,,,,,,,,False
+53800,Durffey's Dud,"37° 48' 12.24"" N, 111° 22' 31.44"" W",Escalante,0.0,3A II (<i>v3a1 II</i>),3A II,,,,,,,,,,,,,,,,False
+753,Escalante River,"37° 34' 11.64"" N, 111° 5' 48.48"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False
+53803,High and Right,"37° 55' 50.52"" N, 111° 34' 43.32"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False
+760,Little Scorpion Canyons,"37° 26' 38.76"" N, 111° 7' 29.64"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False
+19737,Sandslide Canyon,"37° 28' 58.08"" N, 111° 10' 4.44"" W",Escalante,0.0,2A <i>II</i> (<i>v1a1 II</i>),2A <i>II</i>,2.0,4.0,3.7,1,110 ft,110,,,,,,,,,,False
+19740,TOD Canyon,"37° 44' 23.28"" N, 111° 20' 11.40"" W",Escalante,0.0,3B <i>III</i> (<i>v3a2 III</i>),3B <i>III</i>,7.0,9.0,6.6,4,,,,,,,,,,,,False
+53808,Whomping Willow,"37° 19' 8.76"" N, 111° 1' 27.48"" W",Escalante,0.0,3A I (<i>v3a1 I</i>),3A I,,,,,,,,,,,,,,,,False
+19739,Wingate Willie,"37° 34' 22.08"" N, 111° 3' 30.60"" W",Escalante,0.0,,,,,,,,,,,,,,,,,,False

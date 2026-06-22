@@ -1,0 +1,85 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+583,The Squeeze,"38° 32' 40.20"" N, 110° 57' 3.24"" W",Southern Swell,4.9,4B IV (<i>v4a2 IV</i>),4B IV,7.0,12.0,,16,99 ft,99,Spring through Fall,True,True,True,False,,0 minutes,0.0,4WD - High Clearance,True
+581,Quandary Canyon,"38° 34' 12.72"" N, 110° 55' 40.80"" W",Southern Swell,4.3,4B III (<i>v4a2 III</i>),4B III,7.0,10.0,,7,66 ft,66,Late Spring through Early Fall,True,False,True,False,,0 minutes,0.0,4WD - High Clearance,True
+573,Baptist Draw,"38° 41' 51.00"" N, 110° 48' 23.04"" W",Central Swell,4.2,3B III (<i>v3a2 III</i>),3B III,4.0,9.0,,3,70 ft,70,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+588,Zero G Canyon,"38° 46' 25.32"" N, 110° 29' 40.20"" W",Eastern Reef,3.9,3B II PG (<i>v4a2 II</i>),3B II PG,1.5,3.5,2.8,2,49.213 ft,49,Spring; Summer; Fall,True,True,True,False,,,,Passenger,False
+574,Cable Canyon,"38° 30' 12.24"" N, 110° 58' 2.28"" W",Southern Swell,4.0,3B IV (<i>v3a2 IV</i>),3B IV,7.0,9.0,,3,83 ft,83,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+56012,Buckeyes Canyon,"38° 54' 46.80"" N, 110° 27' 7.20"" W",Eastern Reef,4.0,4B III (<i>v4a2 III</i>),4B III,6.0,8.0,,11,181 ft,181,"Spring, Fall",True,False,True,False,,0 minutes,0.0,Passenger,False
+1023,The Chute of Muddy Creek,"38° 37' 0.84"" N, 110° 58' 17.76"" W",Southern Swell,4.0,1B IV (<i>v1a2 IV</i>),1B IV,6.0,10.0,,,0 ft,0,Spring; Summer; Fall,True,True,True,False,,,,,False
+577,Knotted Rope Canyon,"38° 33' 52.20"" N, 110° 56' 28.32"" W",Southern Swell,3.8,3B IV (<i>v2a2 IV</i>),3B IV,6.0,10.0,,3,25 ft,25,Spring or Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+28112,Goblin Valley,"38° 33' 51.84"" N, 110° 42' 12.96"" W",Goblin Valley State Park,3.9,POI,POI,1.0,,,,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+585,Black Box (Upper),"39° 0' 29.88"" N, 110° 29' 21.12"" W",Northern Swell,3.8,3C II (<i>v3a4 II</i>),3C II,3.0,5.0,,1,83 ft,83,Late Spring; Summer; Fall,True,True,True,False,,,,,False
+1032,Goblin's Lair,"38° 33' 41.04"" N, 110° 41' 44.16"" W",Goblin Valley State Park,3.6,3A I (<i>v3a1 I</i>),3A I,1.0,4.0,1.75,1,88.583 ft,88,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+586,Greasewood (Upper),"38° 50' 22.20"" N, 110° 30' 6.12"" W",Central Swell,3.6,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,3,66 ft,66,Late spring through early fall,True,False,True,False,,,,,False
+1031,Forgotten and Lower Eagle Canyon,"38° 52' 54.48"" N, 110° 54' 16.20"" W",Central Swell,3.7,3A III (<i>v3a1 III</i>),3A III,5.0,7.0,8.5,1,49.213 ft,49,Any; hot in summer,True,True,True,True,hot in summer,,,4WD - High Clearance,True
+1038,Little Wild Horse Canyon,"38° 35' 44.88"" N, 110° 48' 19.44"" W",Eastern Reef,3.6,2A II (<i>v1a1 II</i>),2A II,1.0,7.0,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+1021,Chute Canyon (Upper),"38° 41' 27.24"" N, 110° 46' 59.88"" W",Central Swell,3.8,3B IV R (<i>v5a2 IV</i>),3B IV R,,,,,,,,,,,,,,,,False
+582,Southern Baptist Canyon,"38° 41' 32.28"" N, 110° 47' 37.32"" W",Central Swell,3.6,3B II (<i>v3a2 II</i>),3B II,3.0,8.0,,5,83 ft,83,Spring; Summer; Fall,True,True,True,False,,,,High Clearance,True
+576,Eardley Canyon (Lower),"38° 48' 1.08"" N, 110° 31' 36.84"" W",Eastern Reef,3.4,3B III (<i>v3a2 III</i>),3B III,5.0,8.0,,6,50 ft,50,Spring;Summer;Fall;HOT in Summer,True,True,True,False,hot in summer,0 minutes,0.0,,False
+1026,Crack Canyon,"38° 38' 35.16"" N, 110° 44' 42.00"" W",Eastern Reef,3.5,2A II (<i>v1a1 II</i>),2A II,2.0,6.0,3.0,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+1039,Muddy Creek Gorge,"38° 34' 8.04"" N, 110° 57' 21.96"" W",Southern Swell,3.6,2B II (<i>v1a2 II</i>),2B II,,,,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+584,Three Fingers Canyon,"38° 50' 45.60"" N, 110° 30' 48.60"" W",Central Swell,3.5,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,2,50 ft,50,Late spring through early fall,True,False,True,False,,,,,False
+1020,Box and Double Arch Canyons,"38° 55' 50.88"" N, 110° 25' 23.52"" W",Northern Swell,3.4,3B <i>I</i> (<i>v3a2 I</i>),3B <i>I</i>,1.0,3.0,,2,173.885 ft,173,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+580,Iron Wash (North Fork),"38° 43' 41.88"" N, 110° 31' 41.52"" W",Eastern Reef,3.4,3B III R (<i>v5a2 III</i>),3B III R,3.0,5.0,5.0,2,40 ft,40,Spring; Summer; Fall,True,True,True,False,,,,,False
+1028,Ding Canyon,"38° 34' 54.12"" N, 110° 50' 7.08"" W",Eastern Reef,3.3,2A II (<i>v1a1 II</i>),2A II,2.0,6.0,5.0,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+1037,Iron Wash (Upper),"38° 44' 54.24"" N, 110° 37' 41.16"" W",Central Swell,3.5,3B IV (<i>v3a2 IV</i>),3B IV,8.0,12.0,14.0,7,60 ft,60,Spring; Fall,True,False,True,False,,0 minutes,0.0,4WD - High Clearance,True
+578,Lupacchiotta Canyon,"38° 51' 1.44"" N, 110° 51' 20.88"" W",Central Swell,3.1,3A I (<i>v3a1 I</i>),3A I,2.0,3.0,,2,83 ft,83,Any,True,True,True,True,,,,,False
+1019,Black Box (Lower),"38° 59' 30.12"" N, 110° 27' 53.64"" W",Northern Swell,3.8,2C III (<i>v1a4 III</i>),2C III,7.0,9.0,,,0 ft,0,Early spring; Summer; Fall,True,True,True,False,,,,,False
+579,Music Canyon,"38° 37' 25.32"" N, 110° 54' 43.56"" W",Southern Swell,3.0,3B III (<i>v3a2 III</i>),3B III,6.0,10.0,13.75,7,30 ft,30,Spring or Fall,True,False,True,False,,20 minutes,20.0,Passenger,False
+28120,Eardley Canyon (Upper),"38° 50' 18.24"" N, 110° 33' 44.28"" W",Central Swell,3.4,2A III (<i>v1a1 III</i>),2A III,8.0,,,,0 ft,0,Fall;Winter;Spring,True,False,True,True,,,,,False
+587,Wild Horse Window Canyon,"38° 39' 11.52"" N, 110° 40' 35.40"" W",Eastern Reef,3.0,2A II (<i>v1a1 II</i>),2A II,3.0,5.0,,1,115 ft,115,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+1030,Farnsworth Canyon,"38° 40' 33.60"" N, 110° 37' 10.20"" W",Eastern Reef,2.7,3A III (<i>v3a1 III</i>),3A III,5.0,7.0,8.0,3,175 ft,175,Fall; Winter; Spring,True,False,True,True,,0.5 minutes,0.5,High Clearance,True
+31774,Great Gusto Canyon,"38° 43' 43.68"" N, 110° 32' 0.24"" W",Eastern Reef,3.0,4A <i>III</i> (<i>v4a1 III</i>),4A <i>III</i>,4.0,6.0,,2,279 ft,279,Fall;Winter;Spring,True,False,True,True,,,,,False
+11034,Hyde Draw,"38° 50' 33.00"" N, 110° 33' 25.56"" W",Central Swell,2.7,3B I (<i>v3a2 I</i>),3B I,2.0,4.0,,2,50 ft,50,Spring through fall.,True,True,True,False,,,,,False
+1027,Dang Canyon,"38° 35' 36.60"" N, 110° 51' 3.96"" W",Eastern Reef,2.6,2A II (<i>v1a1 II</i>),2A II,3.0,4.0,5.0,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+60644,Upper Black Dragon Wash,"38° 56' 2.76"" N, 110° 29' 30.84"" W",San Rafael Swell,2.9,3B I (<i>v3a2 I</i>),3B I,,,1.5,,40 ft,40,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+70535,Bongo Canyon,"38° 52' 42.24"" N, 110° 28' 46.92"" W",Eastern Reef,3.0,3B IV (v4a1 V),3B IV,,,4.75,11,275 ft,275,"Apr-May, Sep-Oct",False,False,False,False,,0 minutes,0.0,4WD,True
+1042,Ramp Canyon,"38° 33' 57.60"" N, 110° 53' 58.56"" W",Southern Swell,2.5,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+11035,Black Dragon Wash,"38° 56' 35.52"" N, 110° 25' 32.16"" W",Northern Swell,3.0,3B II (<i>v3a2 II</i>),3B II,1.5,2.0,,,,,Any,True,True,True,True,,,,,False
+1046,Temple Mountain Wash,"38° 39' 52.20"" N, 110° 38' 50.64"" W",Eastern Reef,3.8,POI,POI,1.0,,,,,,Any,True,True,True,True,,,,,False
+11033,Arch Tower and Cave Canyon,"38° 59' 41.28"" N, 110° 25' 35.40"" W",Northern Swell,4.5,Cave,Cave,4.0,6.0,7.5,,,,Spring; Fall; Winter,True,False,True,True,,,,,False
+575,Cistern Canyon,"38° 34' 25.68"" N, 110° 54' 27.00"" W",Southern Swell,1.8,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,0,,,Fall;Winter or Spring;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+1018,Bell Canyon,"38° 35' 23.28"" N, 110° 48' 37.80"" W",Eastern Reef,2.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82501,Wendys,"38° 53' 36.60"" N, 110° 27' 20.88"" W",Eastern Reef,2.6,3B <i>III</i> (<i>v3a2 III</i>),3B <i>III</i>,,,,5,160 ft,160,Apr-Oct,False,False,False,False,,0 minutes,0.0,,False
+1029,Enigma Canyon,"38° 43' 33.60"" N, 111° 3' 54.36"" W",Western Reef,3.5,3A III (<i>v3a1 III</i>),3A III,,,,,60 ft,60,Spring; Fall,True,False,True,False,,,,4WD - High Clearance,True
+1043,Segers Window Canyon,"38° 31' 50.16"" N, 110° 57' 9.72"" W",Southern Swell,2.8,4B IV R (<i>v5a2 IV</i>),4B IV R,6.0,9.0,,6,181 ft,181,Late Spring;Summer;Fall,True,True,True,False,,,,,False
+31773,Iron Wash (Lower),"38° 42' 15.12"" N, 110° 31' 4.80"" W",Eastern Reef,3.3,2A II (<i>v1a1 II</i>),2A II,4.0,6.0,10.0,,0 ft,0,Fall;Winter;Spring,True,False,True,True,,,,,False
+1025,Crawford Draw,"38° 50' 2.76"" N, 110° 36' 48.96"" W",Central Swell,2.8,2A I (<i>v1a1 I</i>),2A I,,,,,0 ft,0,,,,,,,,,,False
+1035,Gem Canyon (Middle Fork),"38° 43' 2.28"" N, 111° 1' 48.00"" W",Western Reef,3.5,3A IV (<i>v3a1 IV</i>),3A IV,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+1022,Chute Canyon (Lower),"38° 36' 37.44"" N, 110° 45' 25.92"" W",Eastern Reef,2.1,1A II (<i>v1a1 II</i>),1A II,3.0,7.0,11.0,,0 ft,0,Fall; Winter; Spring,True,False,True,True,,,,,False
+65690,Furniture Draw,"39° 9' 51.48"" N, 110° 43' 45.12"" W",Northern Swell,3.0,1B I (v1a2 II),1B I,,,2.0,,0 ft,0,"Dec-May, Sep-Nov",False,False,False,False,,0 minutes,0.0,Passenger,False
+1036,Gem Canyon (West Fork),"38° 43' 21.36"" N, 111° 2' 6.72"" W",Western Reef,4.0,3A IV (<i>v3a1 IV</i>),3A IV,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+71168,Succinct Canyon,"39° 2' 29.04"" N, 110° 24' 52.92"" W",Northern Swell,2.0,3A I (v3a1 III),3A I,,,1.7,4,115 ft,115,Spring;Fall,True,False,True,False,,,,4WD,True
+25736,Devils Canyon (Utah),"38° 50' 38.76"" N, 110° 55' 33.24"" W",Central Swell,3.0,2 (<i>v1</i>),2,,,,,0 ft,0,,,,,,,,,4WD,True
+65496,Little Holes Canyon,"39° 9' 42.12"" N, 110° 41' 13.56"" W",Northern Swell,3.0,2B II PG (v2a2 II),2B II PG,,,2.35,0,0 ft,0,Dec-Nov,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+1040,Mud Canyon,"38° 34' 55.56"" N, 110° 57' 21.24"" W",Southern Swell,3.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,,,,,,,,,,False
+34257,Poncho Wash,"38° 43' 32.52"" N, 111° 4' 43.32"" W",Western Reef,3.0,3A III (<i>v3a1 III</i>),3A III,,,6.0,2,155 ft,155,"Inaccessible in winter, too hot in summer",False,True,False,True,hot in summer,,,,False
+1044,Straight Wash (Lower),"38° 47' 9.96"" N, 110° 29' 53.88"" W",Eastern Reef,3.0,1A II (<i>v1a1 II</i>),1A II,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+1041,Penitentiary Canyon,"38° 40' 18.12"" N, 110° 57' 18.36"" W",Western Reef,1.2,1A II (<i>v1a1 II</i>),1A II,,,,0,0 ft,0,Apr-Oct,False,False,False,False,,0.5 minutes,0.5,High Clearance,True
+34305,Crescent Canyon,"39° 0' 22.32"" N, 110° 24' 18.00"" W",Northern Swell,2.0,3A I (v2a1 II),3A I,,,,2,25 ft,25,Apr-May; Sep-Nov,False,False,False,False,,0 minutes,0.0,High Clearance,True
+1190,Grotto Canyon (Northern Swell),"39° 6' 32.76"" N, 110° 27' 52.20"" W",Northern Swell,2.0,2B I (v1a2 II),2B I,,,2.28,,0 ft,0,"mar-jun, Sep-Oct",False,False,False,False,,0 minutes,0.0,High Clearance,True
+71160,Hopscotch Canyon,"39° 1' 8.76"" N, 110° 24' 31.32"" W",Northern Swell,2.0,1A I (v1a1 I),1A I,,,1.9,0,0 ft,0,"Spring, Fall",True,False,True,False,,0 minutes,0.0,High Clearance,True
+82490,Joy Wave South Fork,"39° 4' 14.88"" N, 110° 26' 54.96"" W",Northern Swell,2.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+71171,Resonate Canyon,"39° 2' 34.44"" N, 110° 25' 46.20"" W",Northern Swell,2.0,3A I (v4a1 I),3A I,,,2.6,2,170 ft,170,Srping;Fall,False,False,True,False,,0 minutes,0.0,4WD,True
+71166,Saunter Canyon,"39° 1' 56.28"" N, 110° 24' 41.40"" W",Northern Swell,2.0,1A I (<i>v1a1</i> II),1A I,,,2.4,0,0 ft,0,Spring; Fall,True,False,True,False,,,,4WD,True
+71162,Thimble Canyon,"39° 1' 40.44"" N, 110° 24' 26.64"" W",Northern Swell,2.0,3B I <i>R</i> (v5a2 II),3B I <i>R</i>,,,,3,150 ft,150,Spring; Fall,True,False,True,False,,0 minutes,0.0,4WD,True
+82492,Belmont,"39° 3' 21.96"" N, 110° 25' 49.44"" W",Northern Swell,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82503,DCB Canyon,"38° 53' 50.28"" N, 110° 27' 25.92"" W",Eastern Reef,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+1033,Fault Canyon,"38° 40' 56.28"" N, 110° 48' 36.36"" W",Central Swell,1.0,,,,,,,,,,,,,,,,,,False
+82505,Hidden Oasis,"38° 56' 41.28"" N, 110° 25' 28.92"" W",Northern Swell,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82506,High Center,"38° 56' 57.12"" N, 110° 25' 35.04"" W",Northern Swell,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82494,Redacted,"38° 59' 11.40"" N, 110° 24' 40.32"" W",Northern Swell,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82495,Stones Throw,"39° 0' 46.44"" N, 110° 24' 33.48"" W",Northern Swell,1.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82500,Box of Chocolates,"38° 53' 56.04"" N, 110° 27' 30.60"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+1024,Corral Canyon,"38° 30' 32.76"" N, 111° 5' 43.44"" W",Southern Swell,0.0,,,,,,,,,,,,,,,,,,False
+82499,Farnsworth â€“ East Fork,"38° 41' 45.96"" N, 110° 37' 35.40"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82498,Farnsworth â€“ Hidden Bridge,"38° 41' 44.52"" N, 110° 37' 41.52"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82497,Flameout,"38° 44' 49.20"" N, 110° 30' 21.60"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82491,Hidden Skylight,"39° 3' 38.88"" N, 110° 26' 26.88"" W",Northern Swell,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+1034,Horse Heaven Canyon,"38° 30' 32.76"" N, 111° 3' 43.92"" W",Southern Swell,0.0,,,,,,,,,,,,,,,,,,False
+82496,Iron Bridge,"38° 44' 37.68"" N, 110° 30' 33.48"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82489,Joy Wave North Fork,"39° 4' 19.20"" N, 110° 26' 52.44"" W",Northern Swell,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82502,R3,"38° 53' 25.44"" N, 110° 27' 18.00"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+88142,Reid Nielson Draw,"38° 50' 4.92"" N, 110° 39' 22.32"" W",Central Swell,0.0,2A (<i>v1a1</i>),2A,,,,,0 ft,0,,,,,,,,,,False
+82493,Sesame Street,"38° 59' 47.40"" N, 110° 24' 37.44"" W",Northern Swell,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+82504,Slab me Silly,"38° 52' 50.16"" N, 110° 27' 32.76"" W",Eastern Reef,0.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False

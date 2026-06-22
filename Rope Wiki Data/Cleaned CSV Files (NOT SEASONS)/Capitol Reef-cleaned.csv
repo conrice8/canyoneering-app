@@ -1,0 +1,64 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+229,Pandora's Box,"38° 21' 5.76"" N, 111° 21' 37.44"" W",Fruita District,4.8,3A IV PG (<i>v4a1 IV</i>),3A IV PG,10.0,14.0,10.5,7,150 ft,150,Spring; Summer; Fall,True,True,True,False,,,,Passenger,False
+279,Poe Canyon,"37° 33' 22.68"" N, 110° 53' 9.60"" W",Halls Creek area,4.8,4B V X (<i>v6a2 V</i>),4B V X,10.0,20.0,4.3,16,135 ft,135,Spring; Fall.,True,False,True,False,,0 minutes,0.0,Passenger,False
+52211,Jiminy Cricket,"37° 33' 31.68"" N, 110° 53' 17.16"" W",Halls Creek area,5.0,4B V X (<i>v6a2 V</i>),4B V X,,,,,,,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+30246,Rotary Dial Canyon,"37° 45' 15.48"" N, 110° 58' 36.12"" W",Waterpocket Fold,4.6,4B IV (<i>v4a2 IV</i>),4B IV,,,12.5,12,50 ft,50,"Spring-Autumn, hot in summer",True,True,True,False,hot in summer,0 minutes,0.0,Passenger,False
+228,Cassidy Canyon,"38° 15' 39.96"" N, 111° 13' 32.16"" W",Fruita District,4.5,3A II (<i>v3a1 II</i>),3A II,,,2.1,8,140 ft,140,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+85504,Wife 3,"38° 16' 46.56"" N, 111° 14' 33.36"" W",Cohab Canyon,4.5,3A I (<i>v3a1 I</i>),3A I,,,,3,225 ft,225,,,,,,,0 minutes,0.0,Passenger,False
+726,Sulphur Creek,"38° 18' 12.96"" N, 111° 18' 15.48"" W",Fruita District,4.4,2B II (<i>v1a2 II</i>),2B II,3.0,6.0,5.5,0,0 ft,0,Spring; Summer; Fall,True,True,True,False,,0.5 minutes,0.5,Passenger,False
+278,Happy Dog Canyon,"37° 34' 34.32"" N, 110° 53' 29.40"" W",Halls Creek area,4.3,4B V R (<i>v5a2 V</i>),4B V R,7.0,11.0,3.0,6,140 ft,140,,,,,,,0 minutes,0.0,Passenger,False
+490,Wonderland Canyon,"38° 16' 8.04"" N, 111° 11' 27.60"" W",Fruita District,4.1,4B III (<i>v4a2 III</i>),4B III,5.0,7.0,,4,210 ft,210,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+234,Strike 2 Canyon,"37° 52' 31.44"" N, 111° 2' 31.20"" W",Waterpocket Fold,4.0,3B III (<i>v3a2 III</i>),3B III,3.0,6.0,1.4,3,200 ft,200,,,,,,,1 minutes,1.0,High Clearance,True
+85510,Wife 5,"38° 16' 48.72"" N, 111° 14' 28.32"" W",Cohab Canyon,3.9,3A I (<i>v3a1 I</i>),3A I,,,,5,80 ft,80,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+232,Shinob Canyon (Timpie Fork),"38° 15' 15.12"" N, 111° 12' 46.80"" W",Shinob,3.9,3B II (<i>v3a2 II</i>),3B II,2.5,6.0,2.8,4,270 ft,270,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+50082,Fire Canyon (Capitol Reef National Park),"38° 16' 15.96"" N, 111° 14' 18.96"" W",Fruita District,3.6,3B II (<i>v3a2 II</i>),3B II,,,,7,125 ft,125,,,,,,,0.5 minutes,0.5,Passenger,False
+11039,Ferns Nipple,"38° 14' 50.28"" N, 111° 12' 47.88"" W",Shinob,3.9,POI,POI,4.0,5.0,8.0,,,,Spring; Summer; Fall,True,True,True,False,,,,,False
+231,Shinob Canyon (Nighthawk Fork),"38° 15' 7.56"" N, 111° 12' 53.64"" W",Shinob,3.6,4B II (<i>v4a2 II</i>),4B II,2.0,9.0,3.3,7,200 ft,200,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+489,The Wives,"38° 16' 44.40"" N, 111° 14' 24.72"" W",Cohab Canyon,3.4,3A I (<i>v3a1 I</i>),3A I,3.0,8.0,2.0,,,,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+914,Baboon Laughs,"37° 34' 12.00"" N, 110° 53' 1.32"" W",Halls Creek area,3.5,3B V (<i>v3a2 V</i>),3B V,4.0,48.0,,6,165 ft,165,Spring;Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+230,Shinob Canyon (Na-gah Fork),"38° 15' 30.96"" N, 111° 13' 0.48"" W",Shinob,3.4,3B I (<i>v3a2 I</i>),3B I,3.0,5.0,2.3,3,155 ft,155,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+32771,Arch Nemesis,"38° 12' 11.88"" N, 111° 10' 58.08"" W",Fruita District,3.4,3B II (<i>v3a2 II</i>),3B II,2.0,5.0,,9,75 ft,75,"Late Spring, Summer, Fall",True,True,True,False,,0 minutes,0.0,Passenger,False
+11027,Stegosaur Slot,"38° 17' 51.00"" N, 111° 14' 32.28"" W",Fruita District,3.3,3A II (v3a1 II),3A II,3.0,5.0,,1,98 ft,98,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+485,Burro Wash,"38° 10' 5.16"" N, 111° 8' 56.40"" W",Notam,3.2,3B IV (<i>v3a2 IV</i>),3B IV,7.0,9.0,8.0,4,109 ft,109,Spring through Fall,True,True,True,False,,0.5 minutes,0.5,High Clearance,True
+59103,Glutton For Punishment,"37° 38' 5.64"" N, 110° 54' 41.40"" W",Waterpocket Fold,5.0,,,,,,,,,,,,,,,,,,False
+486,Cottonwood Wash,"38° 8' 27.24"" N, 111° 8' 36.24"" W",Notam,3.0,3B III (<i>v3a2 III</i>),3B III,5.0,7.0,,3,66 ft,66,Spring; Summer; Fall,True,True,True,False,,1 minutes,1.0,,False
+39868,Red Canyon (Sunglow),"38° 20' 58.56"" N, 111° 31' 3.36"" W",Bicknell,3.0,3A II (<i>v3a1 II</i>),3A II,1.0,2.0,3.0,5,90 ft,90,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+85498,Wife 1,"38° 16' 46.20"" N, 111° 14' 36.60"" W",Cohab Canyon,3.0,3A I (<i>v3a1 I</i>),3A I,,,,4,85 ft,85,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+39871,Watson Canyon,"38° 21' 33.48"" N, 111° 26' 2.04"" W",Bicknell,3.0,3A I (<i>v2a1 I</i>),3A I,2.0,3.0,,1,25 ft,25,Mar-Nov,True,True,True,False,,0 minutes,0.0,4WD - High Clearance,True
+488,Old School,"38° 17' 12.48"" N, 111° 10' 12.36"" W",Fruita District,2.6,3B I (<i>v3a2 I</i>),3B I,,,1.0,2,75 ft,75,Any;NOT in Spring,True,True,True,True,not in spring,0 minutes,0.0,Passenger,False
+233,Smokestack Canyon,"38° 19' 43.32"" N, 111° 17' 12.84"" W",Fruita District,2.9,3A III (<i>v3a1 III</i>),3A III,5.0,7.5,5.4,2,115 ft,115,Any; hot in summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+723,Grand Wash,"38° 16' 36.48"" N, 111° 12' 1.80"" W",Fruita District,3.0,2A I (<i>v1a1 I</i>),2A I,1.0,2.0,,0,0 ft,0,Any,True,True,True,True,,,,,False
+85502,TOGA,"38° 16' 48.00"" N, 111° 14' 34.80"" W",Cohab Canyon,4.0,2A I PG (<i>v1a1 I</i>),2A I PG,,,,0,0 ft,0,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+487,Five Mile Wash,"38° 7' 12.72"" N, 111° 8' 46.32"" W",Notam,2.4,3B IV (<i>v3a2 IV</i>),3B IV,6.0,8.0,,4,33 ft,33,Spring through Fall,True,True,True,False,,1 minutes,1.0,4WD,True
+53795,Cheerio Chump,"37° 52' 37.92"" N, 111° 2' 52.08"" W",Waterpocket Fold,3.4,3A II (<i>v3a1 II</i>),3A II,,,,4,130 ft,130,,,,,,,,,,False
+724,Muley Twist Canyon,"37° 52' 5.88"" N, 111° 2' 27.24"" W",Waterpocket Fold,4.0,1A <i>III</i> (<i>v1a1 III</i>),1A <i>III</i>,4.0,12.0,16.5,,0 ft,0,Spring;Fall;Winter,True,False,True,True,,,,Passenger,False
+725,Sheets Gulch,"38° 6' 16.20"" N, 111° 4' 59.88"" W",Notam,4.0,2A III (<i>v1a1 III</i>),2A III,4.0,7.0,11.0,0,0 ft,0,Any;COLD in Winter,True,True,True,True,cold in winter,0 minutes,0.0,,False
+59104,...must be on dope,"37° 37' 22.80"" N, 110° 53' 47.04"" W",Waterpocket Fold,5.0,,,,,,,,,,,,,,,,,,False
+85506,Wife 4,"38° 16' 45.12"" N, 111° 14' 31.56"" W",Cohab Canyon,2.0,3A I (<i>v3a1 I</i>),3A I,,,,1,75 ft,75,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+69007,Beaver Bay Canyon,"38° 16' 56.28"" N, 111° 11' 1.32"" W",Fruita District,2.5,3B I (<i>v3</i>a1 <i>I</i>),3B I,,,,2,85 ft,85,Jan-Dec,True,True,True,True,,0 minutes,0.0,,False
+25168,Surprise Canyon (Capitol Reef National Park),"37° 50' 0.60"" N, 110° 59' 51.36"" W",Waterpocket Fold,2.5,1A I (<i>v1a1 I</i>),1A I,1.0,2.0,2.5,,0 ft,0,Any; hot in summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+53794,Saddle Sore,"37° 54' 9.72"" N, 111° 3' 40.68"" W",Waterpocket Fold,3.5,3A II (<i>v3a1 II</i>),3A II,,,,,,,,,,,,,,,,False
+40110,Sand Creek Falls,"38° 21' 20.52"" N, 111° 28' 1.56"" W",Bicknell,3.5,2A II (<i>v1a1 II</i>),2A II,2.0,3.0,3.0,,0 ft,0,Any;Winter,True,True,True,True,,,,,False
+74561,Stem School,"38° 16' 35.76"" N, 111° 10' 35.40"" W",Fruita District,3.0,3B II (<i>v3a2 II</i>),3B II,2.0,5.0,1.4,4,150 ft,150,,,,,,,0 minutes,0.0,Passenger,False
+68171,Wingate Wander,"38° 10' 31.44"" N, 111° 10' 27.12"" W",Fruita District,3.0,4B IV (<i>v4a2 IV</i>),4B IV,,,,3,190 ft,190,FALL,False,False,True,False,,0 minutes,0.0,4WD,True
+1122,Halls Creek Narrows,"37° 40' 59.16"" N, 110° 54' 34.92"" W",Waterpocket Fold,4.0,2B III (<i>v1a2 III</i>),2B III,6.0,10.0,18.4,,0 ft,0,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+25034,Headquarters Canyon,"37° 49' 41.16"" N, 110° 59' 22.92"" W",Waterpocket Fold,4.0,1A I (<i>v1a1 I</i>),1A I,2.0,3.0,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+85511,Wife 6,"38° 16' 50.52"" N, 111° 14' 23.28"" W",Cohab Canyon,2.0,3A I (<i>v3a1 I</i>),3A I,,,,3,80 ft,80,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+53797,Muley Monkey,"37° 56' 26.16"" N, 111° 5' 1.32"" W",Waterpocket Fold,1.5,3A II (<i>v3a1 II</i>),3A II,,,,6,30 ft,30,,,,,,,,,,False
+85251,East Fork of Red Canyon (Sunglow),"38° 20' 42.36"" N, 111° 30' 34.56"" W",Bicknell,2.0,3A II (<i>v3a1 II</i>),3A II,,,,3,50 ft,50,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+99923,Golden Throne Canyon,"38° 12' 57.60"" N, 111° 10' 44.76"" W",Fruita District,2.0,3A II (<i>v3a1 II</i>),3A II,,,,,,,,,,,,,,,,False
+53796,Muley Shimmy,"37° 55' 40.80"" N, 111° 4' 45.48"" W",Waterpocket Fold,2.0,4A III R (<i>v5a1 III</i>),4A III R,,,,6,150 ft,150,,,,,,,,,,False
+85500,Wife 2,"38° 16' 45.48"" N, 111° 14' 35.88"" W",Cohab Canyon,2.0,3A I (<i>v3a1 I</i>),3A I,,,,2,100 ft,100,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+85508,The Betrothed,"38° 16' 56.64"" N, 111° 14' 16.44"" W",Cohab Canyon,1.0,2A I (<i>v1a1 I</i>),2A I,,,,0,0 ft,0,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+85307,A-Door-Able Canyon,"38° 20' 21.48"" N, 111° 16' 39.36"" W",Fruita District,0.0,3A III (<i>v3a1 III</i>),3A III,,,,3,100 ft,100,,,,,,,0 minutes,0.0,,False
+85309,Bless Canyon,"37° 46' 39.00"" N, 111° 0' 16.20"" W",Waterpocket Fold,0.0,3B IV (<i>v3a2 IV</i>),3B IV,,,,4,240 ft,240,,,,,,,1 minutes,1.0,Passenger,False
+59101,Hang 'em High,"37° 38' 28.32"" N, 110° 55' 13.80"" W",Waterpocket Fold,0.0,,,,,,,,,,,,,,,,,,False
+59100,Hophead,"37° 38' 52.08"" N, 110° 55' 7.32"" W",Waterpocket Fold,0.0,,,,,,,,,,,,,,,,,,False
+85292,Lower Burro Wash,"38° 10' 56.28"" N, 111° 7' 26.40"" W",Notam,0.0,2A II (<i>v1a1 II</i>),2A II,,,,0,0 ft,0,,,,,,,0 minutes,0.0,Passenger,False
+85296,Lower Cottonwood Wash,"38° 9' 35.64"" N, 111° 6' 47.16"" W",Notam,0.0,2B II (<i>v1a2 II</i>),2B II,,,,,0 ft,0,,,,,,,0 minutes,0.0,Passenger,False
+59040,Not Too Tight,"37° 55' 48.00"" N, 111° 4' 51.60"" W",Waterpocket Fold,0.0,3A I (<i>v3a1 I</i>),3A I,,,,,,,,,,,,,,,,False
+59102,"Okay, Let's Take It From The Top","37° 38' 18.96"" N, 110° 55' 30.36"" W",Waterpocket Fold,0.0,,,,,,,,,,,,,,,,,,False
+85310,Reef Ramble,"38° 13' 44.04"" N, 111° 11' 37.68"" W",Fruita District,0.0,3A IV R (<i>v5a1 IV</i>),3A IV R,,,,5,110 ft,110,,,,,,,1 minutes,1.0,Passenger,False
+85306,Stone Dagger Canyon,"38° 21' 14.04"" N, 111° 16' 15.60"" W",Fruita District,0.0,3A IV (<i>v3a1 IV</i>),3A IV,,,,4,140 ft,140,,,,,,,0 minutes,0.0,Passenger,False
+85308,Two-Can Canyon,"38° 3' 46.80"" N, 111° 10' 22.08"" W",Notam,0.0,3A III (<i>v3a1 III</i>),3A III,,,,10,150 ft,150,,,,,,,0 minutes,0.0,4WD,True
+59039,Y(et)A(nother)S(skinny)S(queeze),"37° 55' 53.40"" N, 111° 4' 52.32"" W",Waterpocket Fold,0.0,3A I R (<i>v5a1 I</i>),3A I R,,,,,,,,,,,,,,,,False

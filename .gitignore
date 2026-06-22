@@ -1,0 +1,17 @@
+# Local Claude Code settings
+.claude/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Excel lock files
+~$*.xlsx
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini

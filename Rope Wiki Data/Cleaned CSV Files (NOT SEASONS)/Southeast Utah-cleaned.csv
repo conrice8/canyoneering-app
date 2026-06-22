@@ -1,0 +1,179 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+293,Shenanigans,"38° 3' 41.04"" N, 110° 29' 13.56"" W",West Butler,4.7,3B III PG (v3a2 V),3B III PG,4.5,8.0,4.5,3,45 ft,45,Spring; Fall,True,False,True,False,,0.5 minutes,0.5,Passenger,False
+548,Alcatraz Canyon,"38° 16' 42.60"" N, 110° 23' 58.20"" W",Ekker Ranch Road,4.6,3B III PG (<i>v4a2 III</i>),3B III PG,3.0,5.0,4.0,4,120 ft,120,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,,False
+308,Chambers Canyon,"38° 19' 59.52"" N, 110° 31' 5.88"" W",White Roost,4.6,3A II PG (<i>v4a1 II</i>),3A II PG,2.0,5.0,2.7,0,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,High Clearance,True
+557,Larry Canyon,"38° 18' 17.64"" N, 110° 22' 44.76"" W",Ekker Ranch Road,4.5,3A III (<i>v3a1 III</i>),3A III,5.0,8.0,,6,80 ft,80,Spring; Summer; Fall,True,True,True,False,,,,,False
+491,Black Hole of White Canyon,"37° 47' 57.12"" N, 110° 17' 57.48"" W",Cedar Mesa,4.5,3B III (<i>v2a2 III</i>),3B III,4.0,8.0,7.8,2,15 ft,15,Summer;Spring;Fall,True,True,True,False,,,,Passenger,False
+63377,Slideanide Constrychnine Ultimate Loop,"38° 6' 6.84"" N, 110° 31' 13.80"" W",Poison Springs,4.5,3A II (<i>v3a1 II</i>),3A II,5.0,7.0,6.0,3,180 ft,180,"Fall, Winter, Spring",True,False,True,True,,0 minutes,0.0,Passenger,False
+301,Slideanide Canyon,"38° 6' 5.04"" N, 110° 31' 10.56"" W",Poison Springs,4.3,3B III (<i>v3a2 III</i>),3B III,2.0,6.0,3.8,2,80 ft,80,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+564,TCB (North East Fork),"38° 15' 45.72"" N, 110° 17' 49.20"" W",Hans Flat Road,4.4,3A II PG (<i>v4a1 II</i>),3A II PG,3.0,4.0,,0,,,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+556,High Spur Canyon,"38° 24' 37.80"" N, 110° 9' 6.48"" W",Hans Flat Road,4.3,3A III (<i>v3a1 III</i>),3A III,5.0,8.0,6.75,1,85 ft,85,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,0.5 minutes,0.5,High Clearance,True
+1002,Horseshoe Canyon,"38° 27' 29.16"" N, 110° 12' 11.88"" W",Bluejohn Complex,4.3,1A <i>III</i> (<i>v1a1 III</i>),1A <i>III</i>,6.0,,7.0,,0 ft,0,Early Winter to Late Spring;BEST in Apr;May;Oct;Nov,True,False,False,True,,,,,False
+594,Sandthrax Canyon,"38° 1' 19.20"" N, 110° 31' 15.24"" W",The Irish,4.3,4B III X (<i>v6a2 III</i>),4B III X,3.0,8.0,,1,35 ft,35,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+83495,Burrly Canyon,"38° 11' 39.84"" N, 110° 28' 39.72"" W",Burr Point,4.4,3A III PG (<i>v4</i>a1 <i>III</i>),3A III PG,4.0,7.0,2.6,3,80 ft,80,Fall to Spring,True,False,True,False,,0 minutes,0.0,High Clearance,True
+20152,Grand Gulch,"37° 26' 44.52"" N, 110° 2' 35.52"" W",Cedar Mesa,4.5,POI 1A IV (<i>v1a1 IV</i>),POI 1A IV,72.0,,22.8,,0 ft,0,Early Autumn to Late Spring;BEST in Mar;Apr;Sep;Oct,True,False,True,False,,,,,False
+333,Woody Canyon,"37° 51' 34.56"" N, 110° 32' 48.12"" W",Trachyte Area,4.2,4B III (<i>v4a2 III</i>),4B III,4.0,6.0,5.3,5,75 ft,75,Spring; Summer; Fall.,True,True,True,False,,,,Passenger,False
+960,No Kidding,"38° 2' 21.48"" N, 110° 30' 41.40"" W",West Butler,4.2,4A II (<i>v4a1 II</i>),4A II,4.0,6.0,1.6,7,110 ft,110,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,Passenger,False
+521,Conundrum Canyon,"38° 4' 45.48"" N, 110° 42' 30.96"" W",Henry Mountains,4.2,3B I (<i>v3a2 I</i>),3B I,1.5,2.5,2.8,1,50 ft,50,"Spring, Summer, Fall",True,True,True,False,,0 minutes,0.0,High Clearance,True
+1119,Citadel Ruins,"37° 23' 29.04"" N, 109° 50' 9.96"" W",Cedar Mesa,4.7,POI 2A II (<i>v1a1 II</i>),POI 2A II,2.0,,,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+11025,Redemption Canyon,"37° 49' 16.68"" N, 110° 31' 50.16"" W",Trachyte Area,4.7,4B V (<i>v4a2 V</i>),4B V,15.0,20.0,0.0124,8,70 ft,70,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+285,Hog 1 Canyon (Boss Hog),"37° 59' 7.80"" N, 110° 31' 6.60"" W",Hog Springs,4.1,3A II (<i>v2a1 II</i>),3A II,4.0,6.0,3.3,1,12 ft,12,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,High Clearance,True
+235,Cheesebox Canyon,"37° 42' 24.12"" N, 110° 4' 4.44"" W",Cedar Mesa,4.1,3B III (<i>v3a2 III</i>),3B III,6.0,10.0,5.0,5,45 ft,45,Spring through Fall,True,True,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+525,Happy Canyon,"38° 9' 43.92"" N, 110° 27' 42.48"" W",Burr Point,4.3,1A III (<i>v1a1 III</i>),1A III,5.0,7.0,11.5,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,4WD - High Clearance,True
+330,Trachyotomy Canyon,"37° 56' 6.00"" N, 110° 30' 41.76"" W",Trachyte Area,4.1,3B III R (<i>v5a2 III</i>),3B III R,3.5,7.0,5.0,1,35 ft,35,Spring; Summer; Fall.,True,True,True,False,,0 minutes,0.0,High Clearance,True
+290,Leprechaun Canyon (Middle Fork),"38° 2' 7.44"" N, 110° 31' 26.76"" W",The Irish,4.0,3A II PG (<i>v4a1 II</i>),3A II PG,,,3.0,4,25 ft,25,"Any; hot in Summer, cold in winter",True,True,True,True,hot in summer; cold in winter,0.5 minutes,0.5,Passenger,False
+993,Bluejohn Canyon (Lower),"38° 24' 16.56"" N, 110° 14' 45.96"" W",Bluejohn Complex,4.0,,,,,,,,,Spring;Fall,True,False,True,False,,,,,False
+995,Bluejohn Canyon (Squeeze Fork),"38° 21' 29.16"" N, 110° 16' 16.68"" W",Bluejohn Complex,4.0,3A III PG (<i>v4a1 III</i>),3A III PG,7.0,9.0,9.7,3,25 ft,25,Spring;Fall,True,False,True,False,,,,,False
+523,Foolin Around Slot (East),"38° 3' 40.32"" N, 110° 28' 37.20"" W",West Butler,3.9,3B III (<i>v3a2 III</i>),3B III,6.0,8.0,,5,100 ft,100,Spring or Fall,True,False,True,False,,0.5 minutes,0.5,Passenger,False
+528,Horse Play Canyon,"38° 3' 54.72"" N, 110° 27' 19.80"" W",West Butler,3.9,2A II PG (<i>v1a1 II</i>),2A II PG,2.25,3.5,3.5,0,0 ft,0,"Any; hot in Summer, cold in winter",True,True,True,True,hot in summer; cold in winter,0 minutes,0.0,4WD - High Clearance,True
+550,Big Spring Canyon (Northwest Fork),"38° 25' 25.32"" N, 110° 8' 45.60"" W",Hans Flat Road,3.9,3A II (<i>v3a1 II</i>),3A II,2.5,4.0,,3,70 ft,70,Any,True,True,True,True,,0 minutes,0.0,,False
+454,Gravel Canyon,"37° 43' 14.52"" N, 110° 3' 25.92"" W",Cedar Mesa,3.8,3B III (<i>v3a2 III</i>),3B III,6.0,8.0,7.0,2,35 ft,35,Spring through Fall,True,True,True,False,,0 minutes,0.0,4WD,True
+298,Stair Canyon (Upper),"38° 3' 29.88"" N, 110° 26' 0.96"" W",West Butler,3.8,3A II R (<i>v5a1 II</i>),3A II R,2.5,3.0,2.4,0,,,"Any; hot in Summer, cold in winter",True,True,True,True,hot in summer; cold in winter,0 minutes,0.0,4WD - High Clearance,True
+292,Morocco Canyon,"37° 58' 29.28"" N, 110° 29' 13.92"" W",Hog Springs,3.7,3B I (<i>v3a2 I</i>),3B I,2.0,4.0,2.1,6,50 ft,50,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+300,Constrychnine Canyon,"38° 6' 21.24"" N, 110° 30' 49.32"" W",Poison Springs,3.7,3B III (<i>v3a2 III</i>),3B III,4.0,7.0,4.8,4,197 ft,197,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+299,Arscenic Canyon,"38° 6' 2.16"" N, 110° 31' 42.24"" W",Poison Springs,3.6,3B II (<i>v3a2 II</i>),3B II,2.5,4.0,3.2,1,200 ft,200,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+534,Monkey Business,"38° 3' 24.12"" N, 110° 29' 58.92"" W",West Butler,3.7,3B III (v4a2 IV),3B III,4.0,6.0,3.5,5,80 ft,80,"Spring, Fall",True,False,True,False,,0.5 minutes,0.5,4WD,True
+309,Not Mindbender Canyon,"38° 23' 3.12"" N, 110° 23' 12.48"" W",Burr Pass,3.7,3B III (<i>v3a2 III</i>),3B III,5.0,8.0,7.3,3,89 ft,89,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,High Clearance,True
+537,Maidenwater (Upper South Fork),"37° 53' 32.28"" N, 110° 35' 45.96"" W",Trachyte Area,3.7,3B II (<i>v3a2 II</i>),3B II,3.0,5.0,3.7,10,75 ft,75,Spring;Summer;Fall;HOT in Summer,True,True,True,False,hot in summer,,,Passenger,False
+287,Hog 3 Canyon (Razorback),"37° 58' 51.24"" N, 110° 30' 43.92"" W",Hog Springs,3.8,3A II PG (<i>v4a1 II</i>),3A II PG,1.0,6.0,3.6,1,100 ft,100,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,High Clearance,True
+571,White Roost Canyon (Main Fork),"38° 23' 26.88"" N, 110° 26' 44.88"" W",White Roost,3.7,3A II (<i>v3a1 II</i>),3A II,2.0,5.0,,3,73 ft,73,Spring; Fall; Winter,True,False,True,True,,,,,False
+572,White Roost Canyon (West Fork),"38° 23' 21.84"" N, 110° 27' 16.92"" W",White Roost,3.7,3A II (<i>v3a1 II</i>),3A II,2.0,5.0,3.6,1,73 ft,73,Spring; Fall; Winter,True,False,True,True,,,,,False
+1007,Moonshine Wash,"38° 40' 54.48"" N, 110° 10' 46.56"" W",San Rafael Desert,3.8,2A III (<i>v1a1 III</i>),2A III,2.0,6.0,6.5,,0 ft,0,Spring to Autumn;BEST in Apr;May;Sep;Oct,True,False,True,False,,,,4WD - High Clearance,True
+561,Maybe Mindbender Canyon,"38° 22' 40.80"" N, 110° 24' 15.48"" W",Burr Pass,3.8,3A II (<i>v3a1 II</i>),3A II,4.0,6.0,,5,89 ft,89,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+291,Leprechaun Canyon (East Fork),"38° 2' 10.68"" N, 110° 31' 11.28"" W",The Irish,3.7,3A II (<i>v3a1 II</i>),3A II,2.0,8.0,3.8,3,50 ft,50,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+227,Angel Slot,"38° 18' 6.84"" N, 110° 32' 43.44"" W",Angel Point,3.6,3A II (<i>v3a1 II</i>),3A II,2.5,5.0,2.3,5,92 ft,92,Any,True,True,True,True,,0 minutes,0.0,High Clearance,True
+552,Bluejohn Canyon (Main Fork),"38° 21' 57.24"" N, 110° 16' 55.92"" W",Bluejohn Complex,3.7,3A IV (<i>v3a1 IV</i>),3A IV,4.0,9.0,9.2,2,50 ft,50,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+236,Duckett Slot,"37° 45' 32.76"" N, 110° 15' 42.84"" W",Cedar Mesa,3.6,3B II (<i>v3a2 II</i>),3B II,2.0,5.0,2.1,6,50 ft,50,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,4WD - High Clearance,True
+553,Bluejohn Canyon (East Fork),"38° 20' 54.60"" N, 110° 16' 0.12"" W",Bluejohn Complex,3.7,3A IV (<i>v3a1 IV</i>),3A IV,4.0,9.0,10.6,3,50 ft,50,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,0.5 minutes,0.5,High Clearance,True
+30250,Dhalgren Canyon,"37° 54' 3.96"" N, 110° 21' 37.80"" W",Cedar Mesa,3.7,3B I (<i>v3a2 I</i>),3B I,,,,3,100 ft,100,Any;After rains;HOT in Summer,True,True,True,True,hot in summer,0.5 minutes,0.5,Passenger,False
+61847,Pothole Fork of Woody,"37° 51' 43.20"" N, 110° 32' 43.44"" W",Trachyte Area,3.7,4B III (<i>v4a2 III</i>),4B III,,,,6,45 ft,45,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+559,Lost Park Canyon,"38° 18' 28.08"" N, 110° 17' 29.40"" W",Hans Flat Road,3.7,3A III (<i>v3a1 III</i>),3A III,4.0,7.0,7.5,2,70 ft,70,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+527,Hogwarts Canyon,"37° 57' 28.08"" N, 110° 29' 16.08"" W",Hog Springs,3.5,3A II (<i>v3a1 II</i>),3A II,,,1.2,5,90 ft,90,Any,True,True,True,True,,,,Passenger,False
+283,Blarney Canyon (Left Fork),"38° 2' 1.32"" N, 110° 32' 17.88"" W",The Irish,3.6,3A I (<i>v3a1 I</i>),3A I,2.0,3.5,2.2,3,50 ft,50,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+289,Leprechaun Canyon (West Fork),"38° 2' 4.92"" N, 110° 31' 42.60"" W",The Irish,3.6,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,3.09,4,45 ft,45,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+989,Benign Canyon,"38° 15' 32.40"" N, 110° 32' 49.56"" W",Beaver Canyon Area,3.5,3A II (<i>v3a1 II</i>),3A II,2.0,3.0,2.8,2,40 ft,40,Spring;Summer;Fall;HOT in Summer,True,True,True,False,hot in summer,0 minutes,0.0,4WD - High Clearance,True
+962,Trail Canyon,"37° 53' 15.72"" N, 110° 35' 25.80"" W",Trachyte Area,3.5,3B III R (<i>v5a2 III</i>),3B III R,3.0,6.0,3.3,2,59.055 ft,59,Spring; Summer; Fall,True,True,True,False,,,,Passenger,False
+517,Angel Cove (Main Fork),"38° 19' 5.88"" N, 110° 32' 45.60"" W",Angel Point,3.6,3A II (<i>v3a1 II</i>),3A II,2.5,5.0,2.3,6,83 ft,83,Any,True,True,True,True,,,,,False
+1118,Robbers Roost Canyon (North Fork),"38° 24' 29.88"" N, 110° 24' 10.08"" W",White Roost,3.4,3A III (<i>v3a1 III</i>),3A III,4.0,7.0,,4,72.178 ft,72,Spring and Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+990,Bingo Canyon,"38° 16' 45.84"" N, 110° 32' 15.00"" W",Beaver Canyon Area,3.5,3A II (<i>v3a1 II</i>),3A II,3.0,4.0,,2,72.179 ft,72,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+29711,Angels Advocate,"38° 17' 58.92"" N, 110° 32' 51.36"" W",Angel Point,3.6,4A II (<i>v4a1 II</i>),4A II,3.0,4.0,1.9,7,110 ft,110,Spring and Fall,True,False,True,False,,,,,False
+32774,SevenUp,"38° 21' 32.04"" N, 110° 33' 45.00"" W",Sand Slide Slots,4.1,3A II (<i>v3a1 II</i>),3A II,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+286,Hog 2 Canyon,"37° 59' 6.00"" N, 110° 30' 55.80"" W",Hog Springs,3.4,3B II (<i>v3a2 II</i>),3B II,2.0,6.0,3.4,3,125 ft,125,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,High Clearance,True
+590,Angel Cove (South Fork),"38° 18' 58.32"" N, 110° 32' 26.52"" W",Angel Point,3.5,3A II (<i>v3a1 II</i>),3A II,2.5,4.0,2.2,6,83 ft,83,Any,True,True,True,True,,,,4WD - High Clearance,True
+562,Mindbender Canyon,"38° 21' 59.40"" N, 110° 24' 55.80"" W",Burr Pass,3.3,3A II (<i>v3a1 II</i>),3A II,3.0,7.0,,4,150 ft,150,Spring; Summer; Fall,True,True,True,False,,0.5 minutes,0.5,,False
+11021,Bluejohn Canyon (Little West Fork),"38° 22' 37.20"" N, 110° 17' 27.60"" W",Bluejohn Complex,3.5,3A II (<i>v3a1 II</i>),3A II,3.0,4.0,4.2,3,50 ft,50,Spring;Fall,True,False,True,False,,,,High Clearance,True
+92193,Long Gravel Canyons Loop,"37° 42' 29.16"" N, 110° 14' 20.76"" W",Cedar Mesa,4.6,3B VI PG (v3a2 VI),3B VI PG,96.0,168.0,32.0,3,70 ft,70,"April-May, September-October",False,False,False,False,,0 minutes,0.0,Passenger,False
+554,Bluejohn Canyon (Little Bluejohn),"38° 23' 1.32"" N, 110° 16' 45.84"" W",Bluejohn Complex,3.4,3A IV (<i>v3a1 IV</i>),3A IV,4.0,9.0,,2,165 ft,165,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+1003,Little Bull Canyon,"38° 20' 35.16"" N, 110° 29' 47.76"" W",White Roost,3.4,3A <i>II</i> (<i>v3a1 II</i>),3A <i>II</i>,2.0,3.0,,1,98.425 ft,98,Any,True,True,True,True,,,,,False
+563,No Mans Canyon (North Fork),"38° 18' 57.60"" N, 110° 24' 37.44"" W",Ekker Ranch Road,3.5,3A II (<i>v3a1 II</i>),3A II,4.0,6.0,6.2,4,95 ft,95,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,0 minutes,0.0,,False
+284,Blarney Canyon (Right Fork),"38° 1' 53.40"" N, 110° 32' 10.32"" W",The Irish,3.3,3A I (<i>v3a1 I</i>),3A I,2.0,3.0,2.5,2,50 ft,50,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+533,Maidenwater (Upper Middle Fork),"37° 53' 54.96"" N, 110° 35' 2.04"" W",Trachyte Area,3.0,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,,10,32.808 ft,32,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+493,Cowboy Canyon,"37° 42' 42.84"" N, 110° 9' 50.04"" W",Cedar Mesa,3.2,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,2,33 ft,33,Spring through Fall.,True,True,True,False,,,,,False
+18794,Chinle Wash,"37° 12' 0.00"" N, 109° 42' 36.00"" W",Cedar Mesa,5.0,2 <i>II</i> (<i>v1 II</i>),2 <i>II</i>,3.0,,25.0,,0 ft,0,Autumn to Spring;BEST in Apr;May;Sep;Oct,True,False,True,False,,,,,False
+1124,Moon House Ruins,"37° 26' 10.68"" N, 109° 47' 39.12"" W",Cedar Mesa,5.0,POI 2A II (<i>v1a1 II</i>),POI 2A II,2.0,4.0,2.0,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,High Clearance,True
+11037,Target Ruins,"37° 31' 26.40"" N, 109° 37' 58.80"" W",Cedar Mesa,5.0,POI,POI,1.0,,,,,,Any,True,True,True,True,,,,,False
+558,Little White Roost Canyon,"38° 22' 12.00"" N, 110° 28' 53.76"" W",White Roost,3.3,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,,83 ft,83,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+549,Big Spring Canyon (East Fork),"38° 24' 4.68"" N, 110° 8' 15.36"" W",Hans Flat Road,3.3,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,1,148 ft,148,Any,True,True,True,True,,,,,False
+496,Short Canyon,"37° 44' 37.68"" N, 110° 15' 15.48"" W",Cedar Mesa,3.1,3B I (<i>v2a2 I</i>),3B I,1.0,2.0,,1,20 ft,20,Spring through Fall.,True,True,True,False,,0 minutes,0.0,4WD - High Clearance,True
+453,Fry Canyon (Cedar Mesa),"37° 38' 12.12"" N, 110° 8' 57.12"" W",Cedar Mesa,3.2,3B II (<i>v3a2 II</i>),3B II,2.0,4.0,4.0,1,50 ft,50,Spring through fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+532,Merry Piglet,"37° 57' 51.84"" N, 110° 28' 51.96"" W",Hog Springs,2.8,3B II (<i>v3a2 II</i>),3B II,1.5,3.0,0.9,5,50 ft,50,Any;Winter,True,True,True,True,,0 minutes,0.0,,False
+551,Bluejohn Canyon (West Fork),"38° 24' 0.00"" N, 110° 16' 21.36"" W",Bluejohn Complex,3.1,2A II (<i>v1a1 II</i>),2A II,1.0,8.0,,0,0 ft,0,Any;HOT in Summer;DIFFICULT in Winter,True,True,True,True,hot in summer,,,,False
+540,Woodruff Canyon,"37° 51' 43.20"" N, 110° 33' 23.04"" W",Trachyte Area,3.5,4A I R (<i>v5a1 I</i>),4A I R,1.5,3.0,,1,50 ft,50,Spring; Summer; Fall,True,True,True,False,,,,,False
+19768,Jilted Lover,"37° 54' 11.88"" N, 110° 32' 29.40"" W",Trachyte Area,3.3,2B II (<i>v1a2 II</i>),2B II,2.0,6.0,,0,0 ft,0,Spring; Summer; Fall,True,True,True,False,,,,,False
+5550,Shillelagh (East Fork),"38° 1' 58.44"" N, 110° 32' 30.12"" W",The Irish,3.0,3A I (<i>v3a1 I</i>),3A I,2.0,6.0,1.8,2,110 ft,110,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+288,Hog 4 Canyon (Miss Piggy),"37° 58' 58.08"" N, 110° 31' 18.48"" W",Hog Springs,2.9,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,2.9,2,85 ft,85,Spring; Fall; Winter,True,False,True,True,,0 minutes,0.0,High Clearance,True
+1001,Gruvers Slot,"38° 43' 18.84"" N, 110° 11' 21.84"" W",San Rafael Desert,3.2,3A II PG (<i>v4a1 II</i>),3A II PG,2.0,3.0,1.5,2,39.37 ft,39,Any; hot in summer,True,True,True,True,hot in summer,,,,False
+565,Pasture Canyon,"38° 23' 47.76"" N, 110° 28' 52.32"" W",White Roost,3.1,3B III (<i>v3a2 III</i>),3B III,5.0,7.0,,3,50 ft,50,"Spring and Fall, hot in Summer",True,True,True,False,hot in summer,0.5 minutes,0.5,4WD - High Clearance,True
+83534,Swurrly Canyon,"38° 11' 35.88"" N, 110° 28' 12.00"" W",Burr Point,3.4,4A III PG (<i>v4</i>a1 <i>III</i>),4A III PG,3.0,6.0,,1,270 ft,270,Fall to Spring,True,False,True,False,,0 minutes,0.0,High Clearance,True
+721,White Canyon (Lower),"37° 49' 7.68"" N, 110° 21' 9.00"" W",Cedar Mesa,3.8,,,3.0,6.0,,,,,Spring through fall,True,True,True,False,,,,,False
+531,Butler Canyon (Main Fork),"38° 4' 9.84"" N, 110° 26' 16.08"" W",West Butler,3.0,3A III (<i>v3a1 III</i>),3A III,3.0,5.0,,4,75 ft,75,Spring and Fall,True,False,True,False,,0.5 minutes,0.5,4WD,True
+19767,Blushing Bride,"37° 54' 24.48"" N, 110° 33' 1.80"" W",Trachyte Area,3.0,2B II (<i>v1a2 II</i>),2B II,2.0,6.0,,0,0 ft,0,Spring; Summer; Fall,True,True,True,False,,,,,False
+593,Leprechaun Hike,"38° 1' 28.20"" N, 110° 32' 1.68"" W",The Irish,3.0,2A II (<i>v1a1 II</i>),2A II,1.0,3.0,,,0 ft,0,Spring; Fall,True,False,True,False,,,,Passenger,False
+568,Three Canyon,"38° 39' 45.00"" N, 110° 9' 55.44"" W",San Rafael Desert,2.8,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,2,50 ft,50,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+11042,Fish Mouth Cave Ruins,"37° 25' 40.44"" N, 109° 37' 54.48"" W",Cedar Mesa,4.0,POI,POI,1.0,2.0,,,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+42978,Sheiks Canyon,"37° 26' 56.76"" N, 109° 58' 59.88"" W",Cedar Mesa,4.0,1A <i>III</i> (<i>v1a1 III</i>),1A <i>III</i>,4.0,6.0,,,0 ft,0,Fall;Winter;Spring,True,False,True,True,,,,,False
+535,Monoxide,"38° 9' 15.48"" N, 110° 32' 0.24"" W",Poison Springs,2.7,3B II (<i>v3a2 II</i>),3B II,2.0,5.0,,1,56 ft,56,Spring;Fall,True,False,True,False,,,,Passenger,False
+958,Hog Spring Waterfall,"37° 57' 54.72"" N, 110° 30' 28.80"" W",Hog Springs,3.6,1A I (<i>v1a1 I</i>),1A I,1.0,2.0,,,0 ft,0,Any,True,True,True,True,,,,,False
+332,Woodsy Canyon,"37° 51' 39.60"" N, 110° 33' 22.68"" W",Trachyte Area,3.3,3A I (<i>v2a1 I</i>),3A I,2.0,3.0,3.0,2,25 ft,25,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+516,Adobe Swale,"38° 9' 16.20"" N, 110° 31' 17.40"" W",Poison Springs,2.6,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,3,165 ft,165,Spring; Summer; Fall,True,True,True,False,,,,,False
+1004,Lost Angel,"38° 19' 41.88"" N, 110° 32' 34.80"" W",Angel Point,2.7,3A II (<i>v3a1 II</i>),3A II,3.0,6.0,5.3,6,196.85 ft,196,Any; hot in summer,True,True,True,True,hot in summer,,,,False
+520,Burr Slot,"38° 10' 21.36"" N, 110° 28' 4.80"" W",Burr Point,3.0,3A II R (<i>v5a1 II</i>),3A II R,4.0,5.5,6.5,2,197 ft,197,"Any; hot in Summer, cold in winter",True,True,True,True,hot in summer; cold in winter,1 minutes,1.0,4WD - High Clearance,True
+331,Wood Bee Canyon,"37° 51' 37.08"" N, 110° 33' 37.08"" W",Trachyte Area,3.0,3A I (<i>v2a1 I</i>),3A I,2.0,3.0,3.1,2,20 ft,20,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+961,Playin Around Slot,"38° 3' 18.72"" N, 110° 28' 54.84"" W",West Butler,3.4,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+722,Swett Canyon,"37° 50' 31.20"" N, 110° 34' 40.80"" W",Trachyte Area,3.4,2B IV (<i>v1a2 IV</i>),2B IV,8.0,48.0,,,0 ft,0,Any;COLD in Winter,True,True,True,True,cold in winter,,,,False
+1116,Lost Spring Canyon (Middle Fork),"38° 20' 14.28"" N, 110° 23' 15.36"" W",Ekker Ranch Road,2.7,3A II (<i>v3a1 II</i>),3A II,2.0,4.0,3.0,2,40 ft,40,Spring; Fall; Winter,True,False,True,True,,,,4WD - High Clearance,True
+11036,Procession Panel,"37° 21' 3.60"" N, 109° 37' 45.12"" W",Cedar Mesa,5.0,POI,POI,2.0,4.0,,,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+1000,Fallen Angel,"38° 19' 24.60"" N, 110° 32' 32.28"" W",Angel Point,2.6,3A II (<i>v3a1 II</i>),3A II,3.0,5.5,2.9,6,100 ft,100,Any; hot in summer,True,True,True,True,hot in summer,,,,False
+991,Bloodhound Canyon,"38° 16' 7.32"" N, 110° 32' 20.76"" W",Beaver Canyon Area,2.6,3A II (<i>v3a1 II</i>),3A II,2.0,3.0,,3,50 ft,50,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+522,Death Canyon,"38° 3' 42.48"" N, 110° 33' 48.96"" W",The Irish,2.4,3B I (<i>v3a2 I</i>),3B I,1.0,2.0,,2,50 ft,50,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+63564,Casablanca Canyon (South Fork),"37° 58' 55.20"" N, 110° 28' 54.48"" W",Hog Springs,3.0,4A I (<i>v4a1 I</i>),4A I,,,2.6,4,120 ft,120,Year Round,False,False,False,False,,0 minutes,0.0,Passenger,False
+1131,Lost Spring Canyon (North Fork),"38° 20' 33.36"" N, 110° 22' 50.88"" W",Ekker Ranch Road,2.7,3A II (<i>v3a1 II</i>),3A II,,,2.0,6,35 ft,35,Spring and Fall,True,False,True,False,,0 minutes,0.0,High Clearance,True
+541,Yellow Brick Road,"37° 56' 6.00"" N, 110° 29' 14.64"" W",Trachyte Area,2.7,3B IV (<i>v3a2 IV</i>),3B IV,6.0,8.0,,,,,Spring; Summer; Fall.,True,True,True,False,,,,,False
+52067,Shillelagh (West Fork),"38° 1' 58.08"" N, 110° 33' 1.44"" W",The Irish,2.4,3A I (<i>v3a1 I</i>),3A I,2.0,3.0,2.5,3,80 ft,80,Spring and Fall,True,False,True,False,,0 minutes,0.0,,False
+718,Clearwater Canyon,"38° 1' 11.28"" N, 110° 9' 28.44"" W",Cedar Mesa,2.8,3A IV R (<i>v5a1 IV</i>),3A IV R,10.0,14.0,14.0,6,200 ft,200,Spring; Fall,True,False,True,False,,0.5 minutes,0.5,High Clearance,True
+1013,Sawtooth Canyon,"38° 17' 17.16"" N, 110° 32' 4.92"" W",Beaver Canyon Area,2.3,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,,2,82.021 ft,82,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+495,Long Canyon,"37° 45' 14.04"" N, 110° 6' 22.68"" W",Cedar Mesa,2.8,3B IV (<i>v3a2 IV</i>),3B IV,10.0,12.0,,4,99 ft,99,Spring; Summer; Fall,True,True,True,False,,,,,False
+19753,Scar Tissue,"37° 58' 59.16"" N, 110° 22' 38.64"" W",Cedar Mesa,2.9,2B II (<i>v1a2 II</i>),2B II,2.0,3.0,,,0 ft,0,Any,True,True,True,True,,,,,False
+595,Big Bad Ben,"38° 20' 53.16"" N, 110° 30' 59.04"" W",White Roost,2.7,3B III R (<i>v5a2 III</i>),3B III R,5.0,6.0,,,60 ft,60,Spring and Fall,True,False,True,False,,,,,False
+1017,Twin Corral Box Canyon,"38° 15' 12.96"" N, 110° 16' 17.40"" W",Hans Flat Road,2.7,2A <i>I</i> (<i>v1a1 I</i>),2A <i>I</i>,1.0,2.0,,0,0 ft,0,Spring;Fall;HOT in Summer,True,True,True,False,hot in summer,,,,False
+11032,Alcove Amble Canyon,"37° 56' 25.08"" N, 110° 21' 45.72"" W",Cedar Mesa,2.7,3A <i>II</i> (<i>v3a1 II</i>),3A <i>II</i>,2.0,6.0,,5,131.234 ft,131,All;Hot in Summer,False,True,False,False,hot in summer,,,,False
+566,Sams Mesa Box Canyon,"38° 12' 34.92"" N, 110° 16' 31.44"" W",Hans Flat Road,2.5,3A III (<i>v3a1 III</i>),3A III,,,,5,50 ft,50,Any;Winter,True,True,True,True,,0 minutes,0.0,Passenger,False
+530,Lucky Charms,"38° 1' 31.44"" N, 110° 33' 31.32"" W",The Irish,2.1,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,,0,,,Any,True,True,True,True,,,,Passenger,False
+529,Sand Slide Slots (Lower),"38° 21' 18.72"" N, 110° 33' 56.88"" W",Sand Slide Slots,3.0,3A III R (v1a1 IV),3A III R,3.0,6.0,,0,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+494,Horse Tanks Canyon,"37° 49' 34.32"" N, 110° 16' 12.00"" W",Cedar Mesa,2.0,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,4,66 ft,66,Late Spring through Early Fall,True,False,True,False,,30 minutes,30.0,High Clearance,True
+296,Short End of the Stick,"38° 1' 43.68"" N, 110° 32' 49.56"" W",The Irish,2.7,2A I (<i>v1a1 I</i>),2A I,1.5,2.5,2.0,0,20 ft,20,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+997,Bull Pasture Canyon,"38° 16' 1.20"" N, 110° 25' 21.00"" W",Ekker Ranch Road,2.7,3A <i>III</i> (<i>v3a1 III</i>),3A <i>III</i>,4.0,6.0,,2,83 ft,83,Spring;Fall,True,False,True,False,,,,,False
+19727,Fiddler Cove Canyon,"38° 2' 30.84"" N, 110° 22' 21.36"" W",North Wash,4.3,2A V (<i>v1a1 V</i>),2A V,48.0,72.0,,,0 ft,0,Spring and Fall; winter,True,False,True,True,,,,4WD - High Clearance,True
+10855,Almost Mindbender,"38° 22' 29.64"" N, 110° 24' 46.44"" W",Burr Pass,3.0,3B II PG (<i>v4a2 II</i>),3B II PG,5.0,8.0,,5,90 ft,90,Spring or Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+30475,Hole Canyon,"38° 18' 41.76"" N, 110° 28' 8.04"" W",Ekker Ranch Road,3.0,3A I R (<i>v5a1 I</i>),3A I R,,,2.0,1,30 ft,30,Autumn-Spring,True,False,True,False,,0 minutes,0.0,Passenger,False
+959,Maidenwater Canyon (Lower),"37° 53' 53.52"" N, 110° 33' 42.48"" W",Trachyte Area,3.5,2B III (<i>v1a2 III</i>),2B III,4.0,6.0,,,0 ft,0,Spring; Summer; Fall,True,True,True,False,,,,,False
+77605,Bushwax Canyon,"38° 0' 48.96"" N, 110° 31' 9.84"" W",The Irish,2.2,3A I (v2a2 III),3A I,,,,1,25 ft,25,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+536,Munchkin,"37° 57' 19.80"" N, 110° 30' 34.92"" W",Trachyte Area,2.4,2A II (<i>v1a1 II</i>),2A II,2.0,5.0,,,0 ft,0,Any,True,True,True,True,,,,High Clearance,True
+596,Ho Hum Fork,"38° 23' 53.88"" N, 110° 23' 40.56"" W",White Roost,2.6,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,3,65 ft,65,Spring and Fall,True,False,True,False,,0 minutes,0.0,,False
+994,Bluejohn Canyon (West Exit),"38° 23' 32.28"" N, 110° 16' 25.32"" W",Bluejohn Complex,3.0,2A (<i>v1a1</i>),2A,,,,,0 ft,0,Spring;Fall,True,False,True,False,,,,,False
+1012,Robbers Roost Canyon (Middle Fork),"38° 21' 39.60"" N, 110° 24' 48.96"" W",Burr Pass,3.0,3A <i>III</i> (<i>v3a1 III</i>),3A <i>III</i>,4.0,7.0,,1,165 ft,165,Spring;Fall;HOT in Summer,True,True,True,False,hot in summer,,,,False
+497,Urban Cowboy,"37° 42' 18.00"" N, 110° 8' 1.68"" W",Cedar Mesa,3.0,3A IV (<i>v3a1 IV</i>),3A IV,7.0,9.0,,3,66 ft,66,Any,True,True,True,True,,,,,False
+1117,Messin' Around,"38° 3' 0.72"" N, 110° 28' 37.56"" W",West Butler,2.4,3A II (<i>v3a1 II</i>),3A II,2.0,3.0,,1,89 ft,89,Fall; Winter; Spring,True,False,True,True,,,,,False
+32772,Five for the Drive,"38° 20' 59.64"" N, 110° 34' 7.32"" W",Sand Slide Slots,2.0,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+32773,Six Appeal,"38° 21' 8.28"" N, 110° 33' 49.32"" W",Sand Slide Slots,2.0,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+567,Robbers Roost Canyon (South Fork),"38° 21' 36.00"" N, 110° 22' 53.40"" W",Burr Pass,2.3,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,5,197 ft,197,Any,True,True,True,True,,,,,False
+19770,Rock Canyon (Cedar Mesa),"37° 56' 3.48"" N, 110° 19' 14.88"" W",Cedar Mesa,3.5,2A III (<i>v1a1 III</i>),2A III,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+25357,Trachyte Creek,"37° 57' 12.96"" N, 110° 33' 37.08"" W",Trachyte Area,3.5,1A <i>I</i> (<i>v1a1 I</i>),1A <i>I</i>,1.0,,,,0 ft,0,Any,True,True,True,True,,,,,False
+1168,Water Canyon (disambiguation),"38° 26' 24.00"" N, 110° 9' 42.84"" W",Hans Flat Road,3.5,3A III (<i>v3a1 III</i>),3A III,5.0,7.0,,2,85 ft,85,"Mar-Nov, Hot in Summer",True,True,True,False,hot in summer,0 minutes,0.0,4WD - Very High Clearance,True
+77813,Woodchuck Canyon,"37° 52' 32.88"" N, 110° 32' 55.32"" W",Trachyte Area,2.3,3B (<i>v3a2</i>),3B,,,,1,49.213 ft,49,Spring and Fall,True,False,True,False,,,,,False
+51682,Butler Canyon,"38° 4' 9.84"" N, 110° 26' 16.08"" W",West Butler,3.0,3A III (<i>v3a1 III</i>),3A III,,,6.0,2,80 ft,80,Spring or Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+52148,BushWhack Boogie,"37° 56' 54.60"" N, 110° 22' 36.12"" W",Cedar Mesa,4.0,3B III PG (<i>v4a2 III</i>),3B III PG,4.0,7.0,2.6,5,50 ft,50,"Winter, Spring or Fall",True,False,True,True,,0.5 minutes,0.5,4WD - High Clearance,True
+719,Fortknocker Canyon,"37° 47' 54.60"" N, 110° 12' 37.80"" W",Cedar Mesa,4.0,2 (<i>v1</i>),2,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+1126,Seven Kivas,,Cedar Mesa,4.0,POI 2A II (<i>v1a1 II</i>),POI 2A II,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+1128,Slickhorn Canyon,,Cedar Mesa,4.0,2A III (<i>v1a1 III</i>),2A III,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+25358,Trachyte Point Canyon,"37° 55' 53.40"" N, 110° 30' 55.08"" W",Trachyte Area,4.0,2A (<i>v1a1</i>),2A,,,,,0 ft,0,Spring and Fall,True,False,True,False,,,,,False
+518,Black Table Canyon,"37° 54' 40.32"" N, 110° 35' 21.48"" W",Trachyte Area,1.3,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,,1,40 ft,40,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+992,Bluejohn Canyon (Little East Fork),"38° 23' 19.68"" N, 110° 15' 22.68"" W",Bluejohn Complex,2.3,,,,,,,,,Spring;Fall,True,False,True,False,,,,,False
+555,Buck Canyon (West Fork),"38° 23' 40.56"" N, 110° 32' 46.68"" W",White Roost,2.3,3A III (<i>v2a1 III</i>),3A III,4.0,6.0,,1,27 ft,27,Fall;Winter;Spring;HOT in Summer,True,True,True,True,hot in summer,,,,False
+524,Garden Balcony,"38° 13' 32.52"" N, 110° 29' 58.20"" W",Burr Point,2.3,3A II PG (<i>v4a1 II</i>),3A II PG,2.0,4.0,,1,89 ft,89,Spring;Fall,True,False,True,False,,,,Passenger,False
+75654,Pasture Canyon (Little Fork),"38° 22' 44.40"" N, 110° 30' 21.24"" W",White Roost,2.3,3A II (<i>v2a1 II</i>),3A II,,,,1,26.247 ft,26,Spring and Fall,True,False,True,False,,0 minutes,0.0,High Clearance,True
+1015,Sphinx Canyon,"38° 21' 7.20"" N, 110° 26' 54.60"" W",Burr Pass,2.0,4A III R (<i>v5a1 III</i>),4A III R,5.0,6.0,9.0,,180 ft,180,Winter;Spring;Fall,True,False,True,True,,1 minutes,1.0,Passenger,False
+87819,West Fork of Pasture Canyon,"38° 24' 7.56"" N, 110° 29' 35.88"" W",White Roost,2.0,2B III (<i>v1a2 III</i>),2B III,,,,,0 ft,0,Spring and Fall,True,False,True,False,,0.5 minutes,0.5,4WD - High Clearance,True
+1130,Ballroom Cave,"37° 32' 9.24"" N, 109° 38' 27.60"" W",Cedar Mesa,3.0,POI 2A II (<i>v1a1 II</i>),POI 2A II,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+84729,Bird Shit Alley,"38° 21' 8.28"" N, 110° 24' 43.92"" W",Burr Pass,0.0,3A III R (<i>v5a1 III</i>),3A III R,,,7.0,2,,,"Spring, Autumn",True,False,True,False,,0.5 minutes,0.5,High Clearance,True
+19728,Hatch Canyon,"38° 3' 10.80"" N, 110° 22' 37.56"" W",North Wash,3.0,2A VI (<i>v1a1 VI</i>),2A VI,48.0,96.0,,,0 ft,0,Spring and Fall;DIFFICULT in Winter,True,False,True,True,,,,4WD - High Clearance,True
+720,Hideout Canyon,"37° 40' 16.32"" N, 110° 2' 16.80"" W",Cedar Mesa,3.0,,,,,,,,,Apr-Oct,False,False,False,False,,,,,False
+93650,Main Woody + Pothole Fork Combo,"37° 51' 17.28"" N, 110° 32' 53.16"" W",Trachyte Area,0.0,4B IV (<i>v4a2 IV</i>),4B IV,5.5,12.5,5.8,4,50 ft,50,Mar-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+1008,No Mans Canyon (South Fork),"38° 18' 27.36"" N, 110° 25' 1.56"" W",Ekker Ranch Road,3.0,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+539,Two Step Canyon,"38° 6' 39.60"" N, 110° 24' 23.76"" W",Burr Point,3.0,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,,0,,,Any;HOT in Summer,True,True,True,True,hot in summer,,,,False
+526,Hells Hole Canyon,"38° 20' 45.96"" N, 110° 35' 57.48"" W",Angel Point,1.0,3A I (<i>v3a1 I</i>),3A I,2.0,,,1,33 ft,33,Any; hot in summer,True,True,True,True,hot in summer,0 minutes,0.0,,False
+996,Buck Canyon (East Fork),"38° 22' 38.64"" N, 110° 32' 46.32"" W",White Roost,1.7,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+492,Cove Canyon (Cedar Mesa),"37° 57' 43.56"" N, 110° 14' 53.52"" W",Cedar Mesa,2.0,3B III (<i>v3a2 III</i>),3B III,4.0,6.0,,,,,Spring through Fall.,True,True,True,False,,,,,False
+999,Etta Place Canyon,"38° 20' 29.76"" N, 110° 26' 57.48"" W",Burr Pass,2.0,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+75652,Pasture Canyon (Pothole Fork),"38° 22' 29.64"" N, 110° 30' 29.52"" W",White Roost,2.0,3B II (<i>v3a2 II</i>),3B II,,,,3,49.213 ft,49,Spring and Fall,True,False,True,False,,0 minutes,0.0,High Clearance,True
+538,Tumbleweed Balcony,"38° 13' 35.40"" N, 110° 29' 59.64"" W",Burr Point,2.0,3A II (<i>v3a1 II</i>),3A II,1.0,4.0,,0,,,Spring through fall.,True,True,True,False,,,,Passenger,False
+1016,Turner Canyon,"38° 23' 15.72"" N, 110° 16' 35.04"" W",Bluejohn Complex,2.0,,,,,,,,,Spring and Fall,True,False,True,False,,,,,False
+84187,Who Knew Canyon,"38° 1' 56.64"" N, 110° 30' 48.24"" W",The Irish,2.0,3B II (<i>v3a2 II</i>),3B II,,,,2,80 ft,80,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+63565,Casablanca Canyon (North Fork),"37° 58' 56.28"" N, 110° 29' 4.20"" W",Hog Springs,1.0,3A I (<i>v3a1 I</i>),3A I,,,2.8,1,160 ft,160,Year Round,False,False,False,False,,0 minutes,0.0,Passenger,False
+84188,Ponderosa Canyon,"38° 0' 57.96"" N, 110° 31' 18.84"" W",The Irish,1.0,3B I (<i>v3a2 I</i>),3B I,,,,1,150 ft,150,Spring and Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+76585,Bull Canyon (West Fork),"38° 21' 39.24"" N, 110° 31' 26.40"" W",White Roost,0.0,2A II PG (<i>v1a1 II</i>),2A II PG,,,,0,0 ft,0,Spring and Fall,True,False,True,False,,0 minutes,0.0,High Clearance,True
+1123,Lewis Lodge Ruins,,Cedar Mesa,0.0,2A II (<i>v1a1 II</i>),2A II,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+84652,Neilson Wash,"38° 23' 22.56"" N, 110° 53' 35.16"" W",Southeast Utah,0.0,,,,,,,,,,,,,,,,,,False
+1114,Pollys Canyon,,Cedar Mesa,0.0,2A III (<i>v1a1 III</i>),2A III,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False
+297,Sow Fork,"37° 59' 10.68"" N, 110° 30' 12.96"" W",Hog Springs,0.0,2A II (<i>v1a1 II</i>),2A II,6.0,9.0,6.9,3,125 ft,125,Spring and Fall,True,False,True,False,,,,Passenger,False
+7752,Three Kiva Pueblo,"37° 33' 55.08"" N, 109° 15' 7.56"" W",Cedar Mesa,0.0,POI 1A II (<i>v1a1 II</i>),POI 1A II,,,,,0 ft,0,Apr-Oct,False,False,False,False,,,,,False

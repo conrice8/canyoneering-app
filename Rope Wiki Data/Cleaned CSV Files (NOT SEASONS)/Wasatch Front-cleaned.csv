@@ -1,0 +1,35 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+40099,Stewart Falls,"40° 23' 8.16"" N, 111° 36' 31.68"" W",Wasatch Front,4.3,3C1 III <i>R</i> (v5a2 <i>III</i>),3C1 III <i>R</i>,,,,7,230 ft,230,Summer to Fall,False,True,True,False,,0 minutes,0.0,Passenger,False
+80241,East Hamongog,"40° 29' 57.84"" N, 111° 44' 40.20"" W",Wasatch Front,4.4,3C III (v3a3 II),3C III,3.0,9.0,5.2,11,100 ft,100,May-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+40101,Bridal Veil Falls,"40° 20' 19.32"" N, 111° 36' 6.12"" W",Wasatch Front,3.7,3C2 II (<i>v3a5 II</i>),3C2 II,,,,2,240 ft,240,June-Sept,False,False,False,False,,0 minutes,0.0,Passenger,False
+66902,Fort Creek (Three Falls),"40° 29' 43.44"" N, 111° 46' 11.64"" W",Wasatch Front,3.5,3C1 III (v4a4 I),3C1 III,5.0,7.0,1.8,7,145 ft,145,June-November,False,False,False,False,,0 minutes,0.0,Passenger,False
+1058,Great White Icicle,"40° 34' 3.00"" N, 111° 44' 26.88"" W",Wasatch Front,3.3,3C II PG (<i>v4a4 II</i>),3C II PG,3.0,5.0,2.0,5,220 ft,220,Summer,False,True,False,False,,0 minutes,0.0,,False
+543,Lisa Falls,"40° 34' 21.72"" N, 111° 43' 39.72"" W",Wasatch Front,3.4,3C I (<i>v3a4 I</i>),3C I,1.0,3.0,,1,,,Late spring through early fall,True,False,True,False,,,,,False
+544,Rocky Mouth Canyon,"40° 32' 35.52"" N, 111° 48' 13.32"" W",Wasatch Front,2.9,3C <i>I</i> (<i>v3a4 I</i>),3C <i>I</i>,1.0,3.0,1.0,2,,,Late spring through early fall,True,False,True,False,,,,,False
+80164,Fort Creek (Upper),"40° 30' 21.60"" N, 111° 45' 57.24"" W",Wasatch Front,3.7,3C1 II (<i>v3a4 II</i>),3C1 II,5.0,8.0,6.5,13,145 ft,145,May-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+73526,Nebo Middle Basin (NMB),"39° 48' 28.44"" N, 111° 45' 3.60"" W",Wasatch Front,3.0,3C III (<i>v3a4 III</i>),3C III,,,9.8,6,160 ft,160,Jul-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+39692,Battle Creek Falls,"40° 21' 46.08"" N, 111° 42' 2.52"" W",Wasatch Front,2.4,3C <i>I</i> (<i>v3a4 I</i>),3C <i>I</i>,1.0,,1.2,,,,Any,True,True,True,True,,,,,False
+18721,Timpanogos Cave,"40° 26' 20.76"" N, 111° 42' 33.12"" W",Wasatch Front,3.8,Caving,Caving,,,,,,,,,,,,,,,,False
+11030,Providence Cave,"41° 42' 18.36"" N, 111° 40' 50.88"" W",Wasatch Front,4.5,Caving,Caving,2.0,4.0,,,,,Summer and Fall,False,True,True,False,,,,,False
+61005,Crumbling Canyon,"40° 0' 20.16"" N, 111° 24' 12.24"" W",Spanish Fork Canyon,2.5,3A II (<i>v3a1 II</i>),3A II,1.0,3.0,6.21371,4,45 ft,45,All year,False,False,False,False,,0 minutes,0.0,Passenger,False
+60617,Cobble Cave Canyon,"39° 59' 43.80"" N, 111° 24' 3.96"" W",Spanish Fork Canyon,2.4,3A I (<i>v3a1 I</i>),3A I,0.752,1.5,1.0,1,200 ft,200,Best in cooler weather,False,False,False,False,,,,Passenger,False
+19735,Pearson Canyon,"41° 23' 26.88"" N, 111° 59' 10.32"" W",Wasatch Front,4.0,3B IV (v4a3 II),3B IV,6.0,10.0,,6,240 ft,240,Spring to Autumn,True,False,True,False,,60 minutes,60.0,4WD - High Clearance,True
+73612,Springdell Cascade,"40° 19' 47.28"" N, 111° 36' 38.88"" W",Wasatch Front,4.0,3C II (<i>v3a4 II</i>),3C II,,,,1,150 ft,150,May-Oct,False,False,False,False,,0 minutes,0.0,Passenger,False
+80772,Hamongoggins,"40° 30' 44.64"" N, 111° 44' 28.32"" W",Wasatch Front,3.5,4C1 IV (<i>v4a4 IV</i>),4C1 IV,8.0,11.0,7.3,16,100 ft,100,May-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+66324,Sam's Canyon,"40° 3' 50.76"" N, 111° 24' 20.16"" W",Spanish Fork Canyon,2.0,3A I (v3a1 II),3A I,,,2.73,3,65 ft,65,Mar-Nov,True,True,True,False,,0 minutes,0.0,Passenger,False
+80088,Fortknocker Falls,"40° 29' 52.80"" N, 111° 46' 21.00"" W",Wasatch Front,3.0,3C1 II (<i>v3a4 II</i>),3C1 II,3.0,,2.15,3,80 ft,80,May-Oct,False,False,False,False,,0 minutes,0.0,Passenger,False
+57053,Hidden Falls (Wasatch Front),"40° 38' 6.72"" N, 111° 43' 25.68"" W",Wasatch Front,3.0,3C I (<i>v3a4 I</i>),3C I,1.0,,,1,60 ft,60,,,,,,,,,,False
+34454,Waterfall Canyon,"41° 12' 38.52"" N, 111° 55' 55.20"" W",Wasatch Front,3.0,,,2.0,3.0,2.5,,,,Spring;Summer;Fall,True,True,True,False,,,,,False
+80301,Silver Creek Falls,"40° 31' 15.24"" N, 111° 40' 16.32"" W",Wasatch Front,2.7,3C II (<i>v3a4 II</i>),3C II,3.0,,3.75,3,150 ft,150,May-Oct,False,False,False,False,,0 minutes,0.0,Passenger,False
+80171,Second Hamongog,"40° 30' 8.28"" N, 111° 45' 46.08"" W",Wasatch Front,2.5,3C1 II (<i>v3a4 II</i>),3C1 II,,,,11,150 ft,150,May-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+95539,Donut Falls,"40° 37' 47.28"" N, 111° 39' 15.84"" W",Wasatch Front,2.3,3C I (<i>v3a4 I</i>),3C I,,,3.3,,,,,,,,,,,,,False
+18720,Saratoga Hot Springs,"40° 21' 10.44"" N, 111° 53' 59.28"" W",Wasatch Front,2.3,POI,POI,,,,,,,,,,,,,,,,False
+87389,Heck Hole,"39° 49' 32.88"" N, 111° 44' 13.56"" W",Wasatch Front,3.0,3C1 III (<i>v3a4 III</i>),3C1 III,6.0,9.0,7.5,5,100 ft,100,June-Oct,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+73621,Runaway Bride,"40° 19' 53.04"" N, 111° 36' 36.36"" W",Wasatch Front,3.0,3A I (<i>v3a1 I</i>),3A I,,,,1,80 ft,80,Apr-Nov,False,False,False,False,,0 minutes,0.0,Passenger,False
+87293,Fortnite,"40° 30' 13.32"" N, 111° 46' 40.80"" W",Wasatch Front,2.0,3C III (<i>v3a4 III</i>),3C III,4.0,6.0,5.5,3,100 ft,100,April-June,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+40100,Rick's Falls,"40° 56' 22.20"" N, 111° 52' 2.64"" W",Wasatch Front,2.0,,,,,,,,,,,,,,,,,,False
+98217,Box Elder Hollow,"41° 41' 27.24"" N, 111° 44' 6.36"" W",Wasatch Front,0.0,3C (<i>v3a4</i>),3C,,,,,,,,,,,,,0 minutes,0.0,High Clearance,True
+34301,Centerville Canyon,"40° 55' 6.96"" N, 111° 51' 51.12"" W",Wasatch Front,0.0,,,,,,,,,Spring;Summer;Fall;Winter,True,True,True,True,,,,,False
+18719,Nutty Putty Cave,"40° 5' 51.00"" N, 112° 2' 12.84"" W",Wasatch Front,0.0,Caving,Caving,,,,,,,,,,,,,,,,False
+100333,Red Ledges,"40° 4' 47.64"" N, 111° 24' 12.96"" W",Wasatch Front,0.0,3A I (<i>v3a1 I</i>),3A I,,,,1,99 ft,99,,,,,,,0 minutes,0.0,Passenger,False
+98215,Second Waterfall Hollow,"41° 41' 15.36"" N, 111° 44' 11.40"" W",Wasatch Front,0.0,3C (<i>v3a4</i>),3C,,,,,,,,,,,,,,,High Clearance,True

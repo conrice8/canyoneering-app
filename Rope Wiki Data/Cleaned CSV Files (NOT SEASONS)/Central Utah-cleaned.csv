@@ -1,0 +1,9 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+25751,Meadow Hot Spring,"38° 51' 51.48"" N, 112° 30' 28.08"" W",Central Utah,4.6,POI,POI,0.0833,,,,,,Any,True,True,True,True,,,,,False
+542,Box Canyon (Maple Canyon),"39° 33' 17.28"" N, 111° 40' 30.36"" W",Central Utah,2.9,3B II (<i>v3a2 II</i>),3B II,2.0,5.0,,2,50 ft,50,Spring through fall,True,True,True,False,,,,,False
+11031,Tabernacle Hill Lava Tubes,"38° 54' 53.64"" N, 112° 31' 58.08"" W",Central Utah,4.0,Caving,Caving,1.0,2.0,,,,,Any,True,True,True,True,,,,,False
+95246,9 Mile Canyon,"39° 41' 4.56"" N, 110° 37' 27.48"" W",Central Utah,5.0,POI 2 (<i>v1</i>),POI 2,,,,,0 ft,0,"Spring, Summer, Fall",True,True,True,False,,,,,False
+60593,Augie Canyon,"39° 1' 59.52"" N, 113° 39' 38.88"" W",Central Utah,3.0,3A I (<i>v3a1 I</i>),3A I,2.0,4.0,3.6,4,40 ft,40,"Fall, Winter, Spring",True,False,True,True,,,,Passenger,False
+60869,RCA Canyon,"39° 0' 33.84"" N, 112° 5' 33.72"" W",Central Utah,3.0,3C I (<i>v3a4 I</i>),3C I,2.0,3.0,1.8,2,90 ft,90,"Spring, Summer, Fall",True,True,True,False,,0 minutes,0.0,Passenger,False
+65174,Katana Slot,"39° 51' 39.24"" N, 111° 27' 54.72"" W",Central Utah,1.7,3B II (v3a2 II),3B II,,,2.45,5,55 ft,55,May-Oct,False,False,False,False,,0 minutes,0.0,High Clearance,True
+34291,Range Creek Canyon,"39° 27' 51.48"" N, 110° 14' 16.80"" W",Central Utah,0.0,POI,POI,,,,,,,Spring;Summer;Fall,True,True,True,False,,,,,False

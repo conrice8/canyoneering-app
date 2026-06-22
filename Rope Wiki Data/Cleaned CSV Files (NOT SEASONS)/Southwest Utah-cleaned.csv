@@ -1,0 +1,120 @@
+pageid,name,coords,region,quality_score,rating_raw,rating_clean,time_lowhours,time_highhours,distance_mi,num_rappels,longest_raw,longest_rappel_ft,best_season_raw,season_spring,season_summer,season_fall,season_winter,best_season_notes,shuttle_raw,shuttle_minutes,vehicle_raw,vehicle_required
+346,Heaps Canyon,"37° 16' 54.84"" N, 112° 59' 10.32"" W",Zion Main Canyon,5.0,4B V R (<i>v5a2 V</i>),4B V R,12.0,48.0,10.5,25,290 ft,290,,,,,,,0 minutes,0.0,Passenger,False
+351,Imlay Canyon (Sneak Route),"37° 18' 56.88"" N, 112° 57' 38.16"" W",Zion Main Canyon,5.0,4B IV R (<i>v5a2 IV</i>),4B IV R,9.0,18.0,9.1,23,120 ft,120,Summer; Fall,False,True,True,False,,0 minutes,0.0,Passenger,False
+354,Kolob Canyon,"37° 23' 41.28"" N, 113° 1' 19.92"" W",Zion West Side,5.0,3C V R (v4a3 <i>V</i>),3C V R,8.0,22.0,7.8,14,155 ft,155,Late Spring; Summer; Fall,True,True,True,False,,,,Passenger,False
+350,Imlay Canyon (Full),"37° 19' 11.64"" N, 112° 59' 9.60"" W",Zion Main Canyon,4.7,4B IV R (<i>v5a2 IV</i>),4B IV R,13.0,24.0,11.4,46,170 ft,170,BEST in Jun;Jul;Aug;Sep,False,False,False,False,,1 minutes,1.0,Passenger,False
+360,Pine Creek Canyon,"37° 12' 46.80"" N, 112° 56' 25.44"" W",Zion East Side,4.7,3B II (<i>v3a2 II</i>),3B II,2.0,6.0,1.3,8,100 ft,100,Late Spring; Summer; Fall,True,True,True,False,,10 minutes,10.0,Passenger,False
+20157,Angels Landing,"37° 16' 30.00"" N, 112° 57' 2.52"" W",Zion Main Canyon,4.5,POI 1A II R (<i>v1a1 II</i>),POI 1A II R,3.0,5.0,5.0,,0 ft,0,Any;HOT in Summer,True,True,True,True,hot in summer,,,Passenger,False
+1097,Parunuweap Canyon,"37° 10' 40.80"" N, 112° 51' 7.92"" W",Zion East Side,4.5,2C IV (<i>v1a4 IV</i>),2C IV,10.0,72.0,18.5,0,0 ft,0,,,,,,,25 minutes,25.0,Passenger,False
+338,Boundary Canyon,"37° 23' 30.48"" N, 113° 0' 2.16"" W",Zion West Side,4.3,3C IV (<i>v3a4 IV</i>),3C IV,5.5,18.0,6.6,10,100 ft,100,Late spring; summer; fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+344,Englestead Hollow,"37° 18' 18.00"" N, 112° 53' 27.96"" W",Zion East Side,4.2,3B IV (v4a1 V),3B IV,6.0,12.0,7.5,15,250 ft,250,Late Spring; Summer; Fall,True,True,True,False,,,,Passenger,False
+358,Mystery Canyon,"37° 17' 18.96"" N, 112° 55' 46.92"" W",Zion East Side,4.3,3B III (<i>v3a2 III</i>),3B III,5.0,9.5,8.0,13,110 ft,110,Spring through fall.,True,True,True,False,,,,Passenger,False
+368,The Subway,"37° 19' 3.72"" N, 113° 2' 26.16"" W",Zion West Side,4.3,3B III (<i>v3a2 III</i>),3B III,5.0,12.0,9.5,4,30 ft,30,Spring; Summer; Fall,True,True,True,False,,20 minutes,20.0,Passenger,False
+340,Checkerboard Canyon,"37° 20' 47.76"" N, 112° 56' 6.72"" W",Zion East Side,4.3,3B IV (<i>v3a2 IV</i>),3B IV,11.0,15.5,13.4,13,210 ft,210,,,,,,,1 minutes,1.0,High Clearance,True
+341,Das Boot,"37° 19' 19.92"" N, 113° 1' 53.40"" W",Zion West Side,4.0,3B III (<i>v3a2 III</i>),3B III,4.0,12.0,8.4,3,66 ft,66,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+353,Keyhole Canyon (Zion National Park),"37° 13' 36.48"" N, 112° 54' 10.44"" W",Zion East Side,4.1,3B I (<i>v3a2 I</i>),3B I,1.0,2.0,0.7,3,30 ft,30,Late Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+1113,Zion Narrows (Upper),"37° 22' 9.84"" N, 112° 55' 41.88"" W",Zion East Side,4.1,1B IV (<i>v1a2 IV</i>),1B IV,2.0,,16.0,,0 ft,0,Spring to Autumn;BEST in Sep;Oct;Apr;May,True,False,True,False,,,,,False
+345,Misery Canyon,"37° 12' 43.92"" N, 112° 52' 59.88"" W",Zion East Side,4.0,3B III (<i>v3a2 III</i>),3B III,5.0,14.0,8.9,5,70 ft,70,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+1112,Zion Narrows (Lower),"37° 17' 52.44"" N, 112° 56' 48.84"" W",Zion Main Canyon,4.0,2B II (<i>v1a2 II</i>),2B II,1.0,13.0,,,0 ft,0,Summer; Fall,False,True,True,False,,,,,False
+19463,Echo Canyon (Lower),"37° 16' 15.60"" N, 112° 56' 6.00"" W",Zion Main Canyon,4.0,4B IV (<i>v4a2 IV</i>),4B IV,6.0,11.0,,14,120 ft,120,Summer;Fall,False,True,True,False,,,,,False
+1096,Oak Creek (South Fork),"37° 24' 37.80"" N, 113° 0' 5.76"" W",Zion West Side,4.0,3C IV (<i>v3a4 IV</i>),3C IV,,,,,,,,,,,,,,,,False
+1090,Kanarra Creek,"37° 32' 15.36"" N, 113° 9' 9.00"" W",Kolob Area,4.0,2C III (<i>v1a4 III</i>),2C III,5.0,7.0,0.00249,0,0 ft,0,Any;COLD in Winter,True,True,True,True,cold in winter,60 minutes,60.0,Passenger,False
+5625,Heaps Canyon (North Fork) (Gunsight),"37° 16' 48.72"" N, 112° 58' 33.24"" W",Zion Main Canyon,4.0,4B V R (<i>v5a2 V</i>),4B V R,48.0,,,18,280 ft,280,Summer; early Fall,False,True,True,False,,,,,False
+19461,Jacob Canyon,"37° 15' 17.64"" N, 112° 58' 11.64"" W",Zion Main Canyon,4.0,4A IV R (<i>v5a1 IV</i>),4A IV R,,,,13,225 ft,225,June-Oct,False,False,False,False,,0 minutes,0.0,Passenger,False
+336,Behunin Canyon,"37° 16' 57.00"" N, 112° 58' 10.92"" W",Zion Main Canyon,3.8,3B III (<i>v3a2 III</i>),3B III,5.0,12.0,6.8,9,170 ft,170,Late spring through fall.,True,True,True,False,,0 minutes,0.0,Passenger,False
+343,Echo Canyon (Middle),"37° 16' 40.08"" N, 112° 55' 14.16"" W",Zion East Side,3.8,3B II (<i>v2a2 II</i>),3B II,3.0,7.0,6.5,7,22 ft,22,Late Spring to Autumn;BEST in Jun;Jul;Aug;Sep,True,False,True,False,,0 minutes,0.0,Passenger,False
+469,Orderville Canyon,"37° 19' 55.20"" N, 112° 49' 59.16"" W",Zion East Side,3.9,3B III (<i>v3a2 III</i>),3B III,6.0,10.0,12.5,2,30 ft,30,Late Spring; Summer; Fall,True,True,True,False,,,,4WD,True
+7434,Portal Canyon,"36° 53' 51.72"" N, 113° 49' 55.92"" W",Virgin River Gorge,3.9,3A IV (<i>v3a1 IV</i>),3A IV,9.0,13.0,4.4,16,175 ft,175,Oct-Apr,False,False,False,False,,0 minutes,0.0,Passenger,False
+89950,Family Camp,"37° 12' 15.12"" N, 112° 52' 22.08"" W",Zion East Side,3.8,4B III (v3a2 <i>III</i>),4B III,7.0,10.0,,6,60 ft,60,"Srping to Autumn, BEST in Spring",True,False,True,False,,0 minutes,0.0,Passenger,False
+239,Benson Creek,"37° 46' 14.52"" N, 112° 49' 51.60"" W",Dixie National Forest,3.7,3C1 I (<i>v3a4 I</i>),3C1 I,,,3.3,4,105 ft,105,Spring to Fall,True,False,True,False,,0 minutes,0.0,Passenger,False
+337,Birch Hollow,"37° 18' 35.28"" N, 112° 51' 19.44"" W",Zion East Side,3.7,3A III (<i>v3a1 III</i>),3A III,,,10.6,9,120 ft,120,Spring; Summer; Fall,True,True,True,False,,0.5 minutes,0.5,Passenger,False
+367,Spry Canyon,"37° 13' 41.88"" N, 112° 56' 42.00"" W",Zion East Side,3.6,3B III (<i>v3a2 III</i>),3B III,4.0,8.0,3.0,13,160 ft,160,Spring; Summer; Fall,True,True,True,False,,1 minutes,1.0,Passenger,False
+371,Water Canyon (Zion National Park),"37° 3' 16.56"" N, 112° 57' 59.76"" W",St. George,3.5,3B III (<i>v3a2 III</i>),3B III,5.0,11.0,4.3,14,170 ft,170,BEST in Apr;May;Aug;Sep,False,False,False,False,,0 minutes,0.0,Passenger,False
+365,Russell Gulch,"37° 19' 29.64"" N, 113° 2' 39.84"" W",Zion West Side,3.6,3B IV (<i>v3a2 IV</i>),3B IV,4.0,12.0,6.4,3,90 ft,90,Late Spring;Summer;Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+335,Cherry Canyon,"36° 54' 25.92"" N, 113° 49' 41.16"" W",Virgin River Gorge,3.6,3A III (<i>v3a1 III</i>),3A III,4.0,8.0,1.8,15,105 ft,105,Winter,False,False,False,True,,0 minutes,0.0,Passenger,False
+1101,Red Hollow,"37° 15' 51.48"" N, 112° 36' 5.04"" W",Mt Carmel,3.6,4A II (<i>v4a1 II</i>),4A II,,,2.15,5,290 ft,290,Spring or Fall,True,False,True,False,,10 minutes,10.0,Passenger,False
+61937,Minaret Canyon,"37° 10' 2.28"" N, 112° 47' 40.92"" W",Zion East Side,3.7,3A II (<i>v3a1 II</i>),3A II,,,4.2,8,40 ft,40,Spring to Autumn,True,False,True,False,,0 minutes,0.0,4WD - High Clearance,True
+602,North Creek (Right Fork),"37° 17' 13.92"" N, 113° 0' 48.96"" W",Zion West Side,3.6,3B V (<i>v3a2 V</i>),3B V,24.0,48.0,,10,60 ft,60,Late spring; summer; fall,True,True,True,False,,,,Passenger,False
+53673,Dothraki,"37° 2' 12.12"" N, 112° 58' 27.48"" W",St. George,3.5,3A III (<i>v3a1 III</i>),3A III,7.0,9.0,4.0,17,150 ft,150,Apr-Oct,False,False,False,False,,0 minutes,0.0,High Clearance,True
+30282,Island In The Sky,"37° 11' 39.84"" N, 113° 38' 33.72"" W",St. George,3.6,3A II (<i>v3a1 II</i>),3A II,3.0,6.0,,4,88.583 ft,88,Any;HOT in Summer,True,True,True,True,hot in summer,0.5 minutes,0.5,,False
+601,Observation Point Canyon,"37° 16' 49.44"" N, 112° 56' 18.96"" W",Zion Main Canyon,3.5,4B III (<i>v4a2 III</i>),4B III,7.0,9.0,,7,300 ft,300,Spring or Fall,True,False,True,False,,60 minutes,60.0,High Clearance,True
+10219,Eastern Sun,"37° 21' 59.40"" N, 112° 54' 39.24"" W",Zion East Side,3.5,3A III (<i>v3a1 III</i>),3A III,7.0,10.0,11.1,7,165 ft,165,May-Oct,False,False,False,False,,45 minutes,45.0,4WD - High Clearance,True
+600,Isaac Canyon,"37° 15' 25.92"" N, 112° 58' 39.00"" W",Zion Main Canyon,3.5,4B V (v2<i>a2 V</i>),4B V,12.0,16.0,,,280 ft,280,,,,,,,,,,False
+1110,Left Fork (Upper),"37° 19' 50.16"" N, 113° 1' 8.76"" W",Zion West Side,3.5,,,10.0,14.0,,,60 ft,60,,,,,,,,,,False
+19462,The Wedge (Crowford Arch),"37° 12' 27.36"" N, 112° 58' 3.00"" W",Zion Main Canyon,3.5,3A IV (<i>v3a1 IV</i>),3A IV,10.0,12.0,,1,110 ft,110,,,,,,,0 minutes,0.0,High Clearance,True
+604,Spearhead Canyon,"37° 16' 5.16"" N, 112° 57' 27.00"" W",Zion Main Canyon,3.5,4B V (v3<i>a2 V</i>),4B V,36.0,,7.0,,300 ft,300,,,,,,,,,,False
+61933,East Fork Fat Man's Misery,"37° 12' 31.32"" N, 112° 51' 7.92"" W",Zion East Side,3.5,3B IV (<i>v3a2 IV</i>),3B IV,,,11.0,2,40 ft,40,"Spring, Fall, Avoid summer (exposed hiking)",True,True,True,False,,0 minutes,0.0,Passenger,False
+362,Red Caves,"37° 13' 28.92"" N, 112° 38' 51.36"" W",Mt Carmel,3.5,2B II (v2a2 II),2B II,3.5,8.0,7.1,4,36 ft,36,Any;HOT in Summer,True,True,True,True,hot in summer,0 minutes,0.0,Passenger,False
+589,Diana's Throne Canyon,"37° 11' 40.20"" N, 112° 39' 0.72"" W",Mt Carmel,3.3,3A I (v2a1 I),3A I,1.5,5.0,2.7,9,80 ft,80,Any; hot in summer,True,True,True,True,hot in summer,,,Passenger,False
+369,Telephone Canyon,"37° 17' 36.24"" N, 112° 58' 5.16"" W",Zion Main Canyon,3.4,3A III (<i>v3a1 III</i>),3A III,5.0,11.0,9.6,12,155 ft,155,Early Spring to Late Autumn;BEST in May;Jun;Jul;Oct,True,False,True,False,,0 minutes,0.0,Passenger,False
+359,Not Imlay Canyon,"37° 18' 1.44"" N, 112° 57' 3.60"" W",Zion Main Canyon,3.4,4A III (<i>v4a1 III</i>),4A III,7.0,12.0,6.9,7,300 ft,300,,,,,,,0 minutes,0.0,Passenger,False
+1089,Johnson Arch Canyon,"37° 10' 57.72"" N, 113° 37' 49.80"" W",St. George,3.4,3B II (<i>v3a2 II</i>),3B II,3.0,5.0,,6,190 ft,190,September to March,False,False,False,False,,,,Passenger,False
+339,Bulloch Gulch (Salamander Fork),"37° 20' 4.56"" N, 112° 55' 7.68"" W",Zion East Side,3.7,4B IV (<i>v4a2 IV</i>),4B IV,10.0,12.0,11.6,8,170 ft,170,,,,,,,,,Passenger,False
+242,Yankee Doodle Hollow,"37° 14' 9.96"" N, 113° 27' 10.08"" W",St. George,3.1,3B I (<i>v3a2 I</i>),3B I,1.0,4.0,1.0,5,73 ft,73,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+1088,Hammerhead,"37° 19' 25.32"" N, 113° 0' 4.32"" W",Zion West Side,3.3,3B V (<i>v3a2 V</i>),3B V,48.0,72.0,,6,165 ft,165,June - Sep,False,False,False,False,,1 minutes,1.0,,False
+82637,Fiddle Me This,"37° 16' 13.44"" N, 112° 54' 40.32"" W",Zion East Side,3.3,4B III (<i>v4a2 III</i>),4B III,,,4.3,11,200 ft,200,"Fall, Spring, early Summer",True,True,True,False,,0 minutes,0.0,Passenger,False
+1098,Poverty Wash,"37° 11' 2.04"" N, 112° 50' 27.96"" W",Zion East Side,3.4,,,,,,,,,,,,,,,,,,False
+361,Pipe Spring Canyon,"37° 22' 44.04"" N, 112° 59' 22.92"" W",Zion West Side,3.1,3A III (<i>v3a1 III</i>),3A III,6.0,9.0,4.9,9,180 ft,180,,,,,,,0 minutes,0.0,Passenger,False
+349,Icebox Canyon (Zion National Park),"37° 26' 49.56"" N, 113° 9' 47.88"" W",Kolob Area,3.1,3B IV (<i>v3a2 IV</i>),3B IV,8.0,15.0,13.0,9,165 ft,165,Late spring; summer; fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+84663,Pictograph Canyon,"37° 12' 15.84"" N, 113° 39' 26.28"" W",St. George,3.0,3A II (<i>v3a1 II</i>),3A II,,,,8,140 ft,140,Oct-April,False,False,False,False,,0.5 minutes,0.5,Passenger,False
+87214,The Hunted Canyon,"37° 11' 40.56"" N, 112° 38' 58.20"" W",Mt Carmel,3.0,3A I (v2a1 I),3A I,1.0,2.0,,5,40 ft,40,Avoid summer,False,True,False,False,,0 minutes,0.0,,False
+1103,Snake Alley and Sidewinder,"37° 18' 28.08"" N, 113° 6' 36.36"" W",Zion West Side,3.1,3A I (<i>v3a1 I</i>),3A I,,,,5,,,,,,,,,0 minutes,0.0,,False
+7437,Mayday Canyon,"36° 54' 8.28"" N, 113° 50' 11.04"" W",Virgin River Gorge,3.0,3A IV (<i>v3a1 IV</i>),3A IV,7.0,10.0,3.7,10,110 ft,110,Oct-Apr,False,False,False,False,,0 minutes,0.0,Passenger,False
+19772,Red Canyon (Peek-a-Boo Canyon),"37° 10' 49.08"" N, 112° 33' 46.80"" W",Mt Carmel,3.0,1A I (<i>v1a1 I</i>),1A I,,,,,0 ft,0,,,,,,,,,,False
+370,Walker Gulch,"37° 19' 58.08"" N, 112° 52' 51.60"" W",Zion East Side,3.3,3A III (<i>v3a1 III</i>),3A III,,,6.2,4,150 ft,150,Spring to Autum,True,False,False,False,,0 minutes,0.0,4WD - High Clearance,True
+61929,French Canyon,"37° 10' 13.80"" N, 112° 50' 45.96"" W",Zion East Side,3.0,2A II (<i>v1a1 II</i>),2A II,,,1.2,,0 ft,0,April-October,False,False,False,False,,0 minutes,0.0,4WD - High Clearance,True
+355,Lodge Canyon,"37° 14' 3.12"" N, 112° 56' 53.88"" W",Zion East Side,2.7,4A IV R (<i>v5a1 IV</i>),4A IV R,5.0,13.0,4.6,6,200 ft,200,,,,,,,1 minutes,1.0,Passenger,False
+26324,Too Wet,"37° 30' 27.72"" N, 113° 6' 51.48"" W",Kolob Area,3.3,3C (<i>v3a4</i>),3C,,,,,,,,,,,,,,,,False
+25356,Mineral Gulch,"37° 11' 48.48"" N, 112° 47' 39.84"" W",Zion East Side,3.0,1A (<i>v1a1</i>),1A,,,,,0 ft,0,,,,,,,,,,False
+342,Deadeye Dick Canyon,"37° 21' 55.08"" N, 112° 53' 37.32"" W",Zion East Side,2.7,3A II (<i>v3a1 II</i>),3A II,4.0,8.0,9.5,6,99 ft,99,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,High Clearance,True
+240,Boltergeist Canyon,"37° 14' 58.92"" N, 113° 25' 49.08"" W",St. George,2.4,3A I (<i>v3a1 I</i>),3A I,1.5,3.0,1.1,6,150 ft,150,Any,True,True,True,True,,0 minutes,0.0,Passenger,False
+1109,Taylor Creek (South Fork),"37° 27' 6.12"" N, 113° 9' 54.72"" W",Kolob Area,3.0,1A II (<i>v1a1 II</i>),1A II,2.0,,3.2,,0 ft,0,Any,True,True,True,True,,,,,False
+1095,Oak Creek (North Fork),"37° 24' 43.20"" N, 112° 59' 51.72"" W",Zion West Side,4.3,,,,,,,,,,,,,,,,,,False
+603,Rock Canyon,"37° 9' 23.40"" N, 112° 49' 36.48"" W",Zion East Side,2.3,3A III (<i>v3a1 III</i>),3A III,5.0,8.0,,5,110 ft,110,oct-apr,False,False,False,False,,0 minutes,0.0,4WD - High Clearance,True
+25353,Bitter Creek,"37° 14' 7.80"" N, 113° 29' 16.80"" W",St. George,2.6,2A I (<i>v1a1 I</i>),2A I,,,,2,25 ft,25,Oct-April,False,False,False,False,,0.5 minutes,0.5,,False
+598,Hidden Canyon (End),"37° 16' 4.08"" N, 112° 56' 17.52"" W",Zion Main Canyon,2.5,4A II (<i>v4a1 II</i>),4A II,4.0,6.0,,,450 ft,450,,,,,,,,,,False
+19315,Ghost Rider Canyon,"36° 58' 26.04"" N, 113° 47' 55.32"" W",Virgin River Gorge,2.4,3A I (v3a1 I),3A I,1.0,2.0,1.0,3,80 ft,80,Oct-Apr,False,False,False,False,,0 minutes,0.0,Passenger,False
+7846,Golf Canyon,"36° 54' 15.48"" N, 113° 48' 36.72"" W",Virgin River Gorge,2.9,3A IV (<i>v3a1 IV</i>),3A IV,7.0,10.0,6.4,11,110 ft,110,Oct-Apr,False,False,False,False,,0 minutes,0.0,Passenger,False
+352,Jolley Gulch,"37° 15' 6.12"" N, 112° 52' 37.56"" W",Zion East Side,2.3,3A I (<i>v3a1 I</i>),3A I,2.0,5.0,4.3,3,160 ft,160,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+1104,Spring Creek,"37° 30' 33.48"" N, 113° 9' 56.52"" W",Kolob Area,2.5,1A (<i>v1a1</i>),1A,,,,,0 ft,0,,,,,,,,,,False
+363,Refrigerator Canyon (Lower),"37° 16' 9.84"" N, 112° 57' 0.72"" W",Zion Main Canyon,2.3,3A II (<i>v3a1 II</i>),3A II,3.0,6.0,1.9,3,190 ft,190,Spring;Summer;Fall;Winter,True,True,True,True,,0 minutes,0.0,Passenger,False
+347,Hidden Canyon,"37° 14' 45.24"" N, 112° 55' 57.72"" W",Zion East Side,2.3,3B III (<i>v3a2 III</i>),3B III,5.0,9.5,5.8,7,100 ft,100,Any,True,True,True,True,,,,Passenger,False
+1086,Deep Creek (Zion National Park),"37° 23' 6.36"" N, 112° 56' 16.80"" W",Zion East Side,4.0,1C IV (<i>v1a4 IV</i>),1C IV,,,,,0 ft,0,,,,,,,,,,False
+72541,Rattlesnake Creek (Dixie National Forest),"37° 38' 28.68"" N, 112° 54' 29.52"" W",Dixie National Forest,4.0,3A III (<i>v3a1 III</i>),3A III,5.0,8.0,,1,65 ft,65,,,,,,,0.5 minutes,0.5,Passenger,False
+1107,Taylor Creek (North Fork),"37° 27' 52.20"" N, 113° 9' 49.32"" W",Kolob Area,3.0,,,2.0,4.0,5.5,,,,Any,True,True,True,True,,,,,False
+241,Hidden Star Canyon,"37° 13' 33.96"" N, 113° 28' 53.76"" W",St. George,2.0,4B I (<i>v4a2 I</i>),4B I,1.5,2.5,1.3,2,200 ft,200,Avoid summer,False,True,False,False,,0 minutes,0.0,Passenger,False
+356,Mighty Mouse Canyon,"37° 22' 21.36"" N, 112° 53' 21.84"" W",Zion East Side,2.0,3A II (<i>v3a1 II</i>),3A II,4.0,6.0,7.6,4,80 ft,80,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,,False
+366,Shelf Canyon,"37° 13' 17.04"" N, 112° 56' 26.52"" W",Zion East Side,2.0,3A I (<i>v3a1 I</i>),3A I,1.0,2.0,2.0,1,200 ft,200,any,True,True,True,True,,0 minutes,0.0,Passenger,False
+597,Corral Hollow,"37° 20' 6.36"" N, 112° 58' 50.16"" W",Zion Main Canyon,2.0,3A IV (<i>v3a1 IV</i>),3A IV,8.0,12.0,,,200 ft,200,,,,,,,,,,False
+1108,Taylor Creek (Middle Fork),"37° 27' 28.44"" N, 113° 9' 45.36"" W",Kolob Area,3.0,,,,,,,,,,,,,,,,,,False
+599,Grotto Canyon (Zion National Park),"37° 15' 3.96"" N, 112° 56' 36.60"" W",Zion East Side,1.5,3B III (<i>v3a2 III</i>),3B III,4.0,8.0,5.8,9,260 ft,260,,,,,,,1 minutes,1.0,,False
+348,Hook Canyon,"37° 16' 20.28"" N, 112° 57' 37.08"" W",Zion Main Canyon,1.5,3A IV (<i>v3a1 IV</i>),3A IV,2.0,13.0,9.7,2,150 ft,150,,,,,,,0 minutes,0.0,Passenger,False
+1093,Little Blue Canyon,"37° 22' 9.84"" N, 113° 1' 49.80"" W",Zion West Side,2.5,,,,,,,,,,,,,,,,,,False
+9791,Frog Hollow,"37° 8' 15.72"" N, 113° 17' 55.32"" W",St. George,1.0,3A III (<i>v3a1 III</i>),3A III,6.0,10.0,4.0,6,215 ft,215,"Fall, winter & spring",True,False,True,True,,0.5 minutes,0.5,Passenger,False
+1087,Goose Creek,"37° 21' 3.24"" N, 112° 58' 27.12"" W",Zion Main Canyon,3.5,4A IV (<i>v4a1 IV</i>),4A IV,,,,,,,,,,,,,,,,False
+364,Refrigerator Canyon (Upper),"37° 16' 53.40"" N, 112° 57' 11.16"" W",Zion Main Canyon,1.0,3A II (<i>v3a1 II</i>),3A II,3.0,5.0,4.5,2,50 ft,50,,,,,,,0 minutes,0.0,Passenger,False
+100682,Quail Creek Canyon,"37° 13' 57.72"" N, 113° 25' 5.52"" W",St. George,3.0,3A I (<i>v3a1 I</i>),3A I,,,,1,50 ft,50,Oct-April,False,False,False,False,,0 minutes,0.0,Passenger,False
+53807,Kanberraville,"37° 32' 45.24"" N, 113° 8' 31.56"" W",Kolob Area,2.6,3A II (<i>v3a1 II</i>),3A II,,,,6,130 ft,130,summer,False,True,False,False,,,,,False
+26322,Pigeon Poop,"37° 15' 10.00"" N, 113° 22' 4.00"" W",St. George,2.5,,,,,,,,,Oct-April,False,False,False,False,,,,,False
+87588,Port of Entry Canyon,"37° 5' 20.76"" N, 112° 31' 59.88"" W",Kanab,2.0,3A I (<i>v3a1 I</i>),3A I,,,1.75,5,120 ft,120,Autumn to Spring,True,False,True,False,,0 minutes,0.0,Passenger,False
+91591,The Triplet,"37° 13' 4.44"" N, 112° 54' 51.12"" W",Zion East Side,3.0,4A I (v3a1 II),4A I,,,0.5,5,60 ft,60,All Seasons,False,False,False,False,,0 minutes,0.0,Passenger,False
+18770,Spring Hollow Box Canyon,"37° 18' 36.00"" N, 112° 36' 0.00"" W",Mt Carmel,1.8,1 (<i>v1</i>),1,,,1.0,,0 ft,0,BEST in Apr;May;Sep;Oct,False,False,False,False,,,,,False
+25735,Clear Creek (Zion National Park),"37° 13' 0.48"" N, 112° 55' 19.56"" W",Zion East Side,2.3,1A (<i>v1a1</i>),1A,,,,,0 ft,0,,,,,,,,,,False
+34309,South Guardian Angel Canyon,"37° 18' 58.68"" N, 113° 2' 58.20"" W",Zion West Side,4.0,4A IV (<i>v4a1 IV</i>),4A IV,17.0,20.0,8.8,11,305 ft,305,,,,,,,,,,False
+357,Mis-Me Canyon,"37° 17' 49.56"" N, 112° 55' 0.48"" W",Zion East Side,2.0,3B III (<i>v3a2 III</i>),3B III,7.0,10.0,10.6,3,60 ft,60,,,,,,,0 minutes,0.0,Passenger,False
+26321,Gully of Great White Throne,"37° 15' 53.64"" N, 112° 56' 20.04"" W",Zion Main Canyon,2.0,3A III (<i>v3a1 III</i>),3A III,4.0,6.0,1.8,8,195 ft,195,,,,,,,,,,False
+26323,Shear Canyon,"37° 14' 47.40"" N, 113° 25' 9.84"" W",St. George,2.0,3A II (<i>v3a1 II</i>),3A II,,,,,,,Oct-April,False,False,False,False,,,,,False
+96491,Fallen Angel (Loop),"37° 18' 32.76"" N, 113° 3' 44.28"" W",Zion West Side,3.0,3A III (<i>v3a1 III</i>),3A III,,,,2,105 ft,105,"Best from fall through spring, avoid summer",True,True,True,False,,0 minutes,0.0,Passenger,False
+82949,The Subway (Bottom Up),"37° 17' 5.28"" N, 113° 5' 44.52"" W",Zion West Side,3.0,1C III (<i>v1a4 III</i>),1C III,,,,,0 ft,0,Spring; Summer; Fall,True,True,True,False,,0 minutes,0.0,Passenger,False
+42945,Pussycat,"37° 14' 31.92"" N, 113° 25' 45.84"" W",St. George,1.7,3A II (<i>v3a1 II</i>),3A II,,,,4,80 ft,80,Oct-April,False,False,False,False,,0 minutes,0.0,,False
+87579,Nizhoni Canyon,"37° 5' 38.04"" N, 112° 32' 11.04"" W",Kanab,1.0,3A II (<i>v3a1</i> I),3A II,,,,3,180 ft,180,,,,,,,0 minutes,0.0,Passenger,False
+101754,Cottonwood Creek (West Tributary),"37° 14' 11.40"" N, 113° 30' 2.52"" W",St. George,2.0,3B I (<i>v3a2 I</i>),3B I,1.8,,1.79,5,160 ft,160,Spring to Fall,True,False,True,False,,0 minutes,0.0,4WD - High Clearance,True
+42415,Esplin Gulch,"37° 19' 52.68"" N, 112° 53' 50.64"" W",Zion East Side,2.0,4A III (<i>v4a1 III</i>),4A III,9.0,10.0,10.8,3,215 ft,215,,,,,,,,,,False
+1094,Not Mystery,"37° 16' 58.44"" N, 112° 56' 4.92"" W",Zion East Side,2.0,,,,,,,,,,,,,,,,,,False
+1105,Stevenson Canyon,"37° 18' 2.16"" N, 113° 0' 38.88"" W",Zion West Side,2.0,,,,,,,,,,,,,,,,,,False
+42977,Bulloch Canyon (Paper Bag Fork),"37° 20' 26.16"" N, 112° 56' 8.52"" W",Zion East Side,1.0,3A IV (<i>v3a1 IV</i>),3A IV,11.0,13.0,13.6,7,70 ft,70,,,,,,,,,,False
+1111,Wildcat Canyon (Zion National Park),"37° 18' 25.56"" N, 113° 0' 20.16"" W",Zion West Side,1.0,,,,,,,,,,,,,,,,,,False
+39437,Pugh Canyon,"37° 3' 19.80"" N, 112° 28' 32.88"" W",Kanab,0.0,,,,,,,,,,,,,,,,,,False
+49518,Rock Canyon (St. George),"36° 58' 26.04"" N, 113° 16' 16.32"" W",St. George,0.0,3B IV (<i>v3a2 IV</i>),3B IV,,,,,,,Oct-April,False,False,False,False,,,,,False
+40970,Snotto Canyon,"37° 14' 52.08"" N, 112° 56' 40.92"" W",Zion East Side,0.0,4A III (<i>v4a1 III</i>),4A III,,,6.2,8,415 ft,415,,,,,,,,,,False
+1106,The Stinger,"37° 13' 31.08"" N, 112° 59' 24.72"" W",Zion Main Canyon,0.0,,,,,,,,,,,,,,,,,,False
