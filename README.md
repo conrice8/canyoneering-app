@@ -8,6 +8,8 @@ dashboard and is now a fast, self-contained static website — no Tableau licens
 
 ### ▶ Live site: **https://conrice8.github.io/canyoneering-app/**
 
+![The Trip Planner: filter sidebar, region-colored map, sortable table, and a canyon detail panel with a plain-language trip-readiness summary.](docs/screenshot.png)
+
 ---
 
 ## What it does
